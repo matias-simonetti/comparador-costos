@@ -93,6 +93,31 @@ por unidad. El orden lo define quien carga, porque cambia el resultado
 (`10 + $50` sobre 1.000 da 850; `$50 + 10` da 855) y depende de cada
 negociación.
 
+## Demo web y API
+
+La demo de [simonetti.uno](https://simonetti.uno) corre este mismo motor en un
+servidor, a través de una API de solo lectura hecha con FastAPI
+(`comparador/api.py`):
+
+| Ruta | Qué devuelve |
+|---|---|
+| `GET /zonas` | Opciones de flete: sin flete y las zonas de la lista del proveedor |
+| `GET /resultado?zona=cordillera&descuentos=10 + $150` | Cada artículo con su estado, motivo, alternativas y costo nuevo |
+
+Decisiones:
+
+- **Sin pandas en el servidor.** Los Excel del set se pasan una vez a
+  `datos/demo/demo.json` (`datos/exportar_json.py`) y el motor corre con la
+  biblioteca estándar. Un test controla que el JSON siga saliendo de los Excel.
+- **El cruce se calcula una sola vez.** Lo que cambia en cada consulta (flete y
+  descuentos) es aritmética: unos milisegundos.
+- **No se suben archivos.** Es una demo pública: solo datos ficticios
+  precargados, y los parámetros tienen límites de largo y de rango.
+- **Cada resultado trae su control.** Como el set tiene las respuestas
+  conocidas, cada artículo dice si la decisión del motor coincide con la real.
+
+Para probarla en tu compu: `python servir.py` y abrir http://127.0.0.1:8000/docs
+
 ## Limitaciones conocidas
 
 - No convierte unidades: "1.20x2.40" (metros) contra "120x240 cm" queda sin
@@ -105,10 +130,12 @@ negociación.
 ```bash
 pip install -r requirements.txt
 python datos/generar.py            # regenera el set ficticio (semilla 42)
-python -m pytest                   # 52 pruebas
+python -m pytest                   # 63 pruebas
 python benchmark.py                # medición contra las respuestas conocidas
 python comparar.py --flete por_tonelada --valor 85000   # deja resultado.csv
 python comparar.py --descuentos "10 + 10 + $150"        # descuentos extra en cadena
+python datos/exportar_json.py      # pasa el set a JSON para la demo web
+python servir.py                   # API de la demo en http://127.0.0.1:8000/docs
 ```
 
 ## Estructura
@@ -120,10 +147,14 @@ comparador/
   texto.py     normalización: palabras, números, medidas, dimensiones
   cruce.py     motor de cruce y reglas de decisión
   lectura.py   lectura de los Excel (detecta encabezados, descarta ruido)
-datos/generar.py   generador del set ficticio con respuestas conocidas
-benchmark.py       medición: método original contra este motor
-comparar.py        corrida completa por línea de comandos
-tests/             pruebas unitarias y de punta a punta
+  demo.py      el motor sobre el set ficticio, sin pandas, para la web
+  api.py       API de solo lectura de la demo (FastAPI)
+datos/generar.py        generador del set ficticio con respuestas conocidas
+datos/exportar_json.py  pasa el set a JSON para la demo web
+benchmark.py            medición: método original contra este motor
+comparar.py             corrida completa por línea de comandos
+servir.py               levanta la API de la demo en tu compu
+tests/                  pruebas unitarias y de punta a punta
 ```
 
 El motor no depende de ninguna interfaz: se puede usar desde la línea de

@@ -1,0 +1,4677 @@
+{
+ "nota": "Datos ficticios generados por datos/generar.py (semilla 42). No editar a mano: se regenera con python datos/exportar_json.py.",
+ "internos": [
+  {
+   "codigo": "10007",
+   "descripcion": "ADHESIVO CERAMICO COMUN ANDINA X 30KG",
+   "costo": 6430.06,
+   "peso_kg": 30.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10014",
+   "descripcion": "ADHESIVO CERAMICO IMPERMEABLE ANDINA X 30KG",
+   "costo": 7251.03,
+   "peso_kg": 30.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10021",
+   "descripcion": "ADHESIVO CERAMICO IMPERMEABLE LAGO X 30KG",
+   "costo": 6842.41,
+   "peso_kg": 30.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10028",
+   "descripcion": "ADHESIVO CERAMICO PORCELLANATO ANDINA X 30KG",
+   "costo": 6690.55,
+   "peso_kg": 30.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10035",
+   "descripcion": "ADHESIVO CERAMICO PORCELLANATO LAGO X 30KG",
+   "costo": 6354.91,
+   "peso_kg": 30.0,
+   "cod_proveedor": "DA-20552"
+  },
+  {
+   "codigo": "10042",
+   "descripcion": "ALAMBRE GALV N14 X 1KG",
+   "costo": 3293.58,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10049",
+   "descripcion": "ALAMBRE GALV N14 X 25KG",
+   "costo": 56922.41,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10056",
+   "descripcion": "ALAMBRE GALVANIZADO N16 X 1KG",
+   "costo": 3007.84,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10063",
+   "descripcion": "ALAMBRE NEGRO RECOCIDO N14 X 1KG",
+   "costo": 3197.51,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10070",
+   "descripcion": "ALAMBRE NEGRO RECOCIDO N16 X 25KG",
+   "costo": 52292.61,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10077",
+   "descripcion": "ARENA FINA BOLSA X 25KG",
+   "costo": 1275.87,
+   "peso_kg": 25.0,
+   "cod_proveedor": "DA-20303"
+  },
+  {
+   "codigo": "10084",
+   "descripcion": "ARENA GRUESA BOLSA X 25KG",
+   "costo": 1197.15,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10091",
+   "descripcion": "ARENA GRUESA BOLSON X 1M3",
+   "costo": 43687.65,
+   "peso_kg": 1500.0,
+   "cod_proveedor": "DA-20726"
+  },
+  {
+   "codigo": "10098",
+   "descripcion": "BALDE ALBAÑIL X 10L",
+   "costo": 3798.65,
+   "peso_kg": 0.5,
+   "cod_proveedor": "DA-20531"
+  },
+  {
+   "codigo": "10105",
+   "descripcion": "BALDE ALBAÑIL X 8L",
+   "costo": 3048.46,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10112",
+   "descripcion": "BLOQUE HORMIGON 10X20X40",
+   "costo": 789.56,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10119",
+   "descripcion": "BLOQUE HORMIGON 15X20X40",
+   "costo": 1046.21,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10126",
+   "descripcion": "BLOQUE HORMIGON 20X20X40",
+   "costo": 1368.11,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10133",
+   "descripcion": "BLOQUE H° 13X20X40",
+   "costo": 1036.18,
+   "peso_kg": 12.0,
+   "cod_proveedor": "DA-20741"
+  },
+  {
+   "codigo": "10140",
+   "descripcion": "CABLE UNIPOLAR 1.5MM2 AZUL X 100M",
+   "costo": 37677.75,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10147",
+   "descripcion": "CABLE UNIPOLAR 1.5MM2 MARRON X 100M",
+   "costo": 39468.3,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10154",
+   "descripcion": "CABLE UNIPOLAR 1.5MM2 ROJO X 100M",
+   "costo": 39304.54,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10161",
+   "descripcion": "CABLE UNIPOLAR 1.5MM2 VERDE X 100M",
+   "costo": 39867.06,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10168",
+   "descripcion": "CABLE UNIPOLAR 2.5MM2 AZUL X 100M",
+   "costo": 63425.33,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10175",
+   "descripcion": "CABLE UNIPOLAR 2.5MM2 MARRON X 100M",
+   "costo": 56982.48,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10182",
+   "descripcion": "CABLE UNIPOLAR 2.5MM2 NEGRO X 100M",
+   "costo": 61467.89,
+   "peso_kg": 3.0,
+   "cod_proveedor": "DA-20006"
+  },
+  {
+   "codigo": "10189",
+   "descripcion": "CABLE UNIPOLAR 2.5MM2 ROJO X 100M",
+   "costo": 62897.57,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10196",
+   "descripcion": "CABLE UNIPOLAR 2.5MM2 VERDE X 100M",
+   "costo": 62020.54,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10203",
+   "descripcion": "CABLE UNIPOLAR 4MM2 AZUL X 100M",
+   "costo": 92055.54,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10210",
+   "descripcion": "CABLE UNIPOLAR 4MM2 MARRON X 100M",
+   "costo": 98675.16,
+   "peso_kg": 3.0,
+   "cod_proveedor": "DA-20171"
+  },
+  {
+   "codigo": "10217",
+   "descripcion": "CABLE UNIPOLAR 4MM2 NEGRO X 100M",
+   "costo": 98982.73,
+   "peso_kg": 3.0,
+   "cod_proveedor": "DA-20450"
+  },
+  {
+   "codigo": "10224",
+   "descripcion": "CABLE UNIPOLAR 4MM2 ROJO X 100M",
+   "costo": 96653.65,
+   "peso_kg": 3.0,
+   "cod_proveedor": "DA-20270"
+  },
+  {
+   "codigo": "10231",
+   "descripcion": "CABLE UNIPOLAR 4MM2 VERDE X 100M",
+   "costo": 97069.68,
+   "peso_kg": 3.0,
+   "cod_proveedor": "DA-20345"
+  },
+  {
+   "codigo": "10238",
+   "descripcion": "CABLE UNIPOLAR 6MM2 AZUL X 100M",
+   "costo": 141309.63,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10245",
+   "descripcion": "CABLE UNIPOLAR 6MM2 MARRON X 100M",
+   "costo": 133342.8,
+   "peso_kg": 3.0,
+   "cod_proveedor": "DA-20153"
+  },
+  {
+   "codigo": "10252",
+   "descripcion": "CABLE UNIPOLAR 6MM2 NEGRO X 100M",
+   "costo": 132938.08,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10259",
+   "descripcion": "CABLE UNIPOLAR 6MM2 ROJO X 100M",
+   "costo": 136140.16,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10266",
+   "descripcion": "CABLE UNIPOLAR 6MM2 VERDE X 100M",
+   "costo": 125980.15,
+   "peso_kg": 3.0,
+   "cod_proveedor": "DA-20783"
+  },
+  {
+   "codigo": "10273",
+   "descripcion": "CAL HIDRATADA ANDINA X 25KG",
+   "costo": 3235.87,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10280",
+   "descripcion": "CAL HIDRATADA ANDINA X 30KG",
+   "costo": 4015.73,
+   "peso_kg": 30.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10287",
+   "descripcion": "CAL HIDRATADA LAGO X 25KG",
+   "costo": 3556.2,
+   "peso_kg": 25.0,
+   "cod_proveedor": "DA-20507"
+  },
+  {
+   "codigo": "10294",
+   "descripcion": "CAÑO CORRUGADO 3/4\" X 25M",
+   "costo": 7634.45,
+   "peso_kg": 2.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10301",
+   "descripcion": "CAÑO CORRUGADO 7/8\" X 25M",
+   "costo": 8083.4,
+   "peso_kg": 2.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10308",
+   "descripcion": "CAÑO EPOXI GAS 1\" X 6.40M",
+   "costo": 32351.51,
+   "peso_kg": 9.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10315",
+   "descripcion": "CAÑO EPOXI GAS 1/2\" X 6.40M",
+   "costo": 31375.95,
+   "peso_kg": 9.0,
+   "cod_proveedor": "DA-20330"
+  },
+  {
+   "codigo": "10322",
+   "descripcion": "CAÑO EPOXI GAS 3/4\" X 6.40M",
+   "costo": 32066.47,
+   "peso_kg": 9.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10329",
+   "descripcion": "CAÑO PVC 110MM X 4M LIVIANO",
+   "costo": 13541.72,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10336",
+   "descripcion": "CAÑO PVC 110MM X 4M REFORZADO",
+   "costo": 14519.16,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10343",
+   "descripcion": "CAÑO PVC 160MM X 4M LIVIANO",
+   "costo": 20329.0,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10350",
+   "descripcion": "CAÑO PVC 160MM X 4M REFORZADO",
+   "costo": 19157.09,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10357",
+   "descripcion": "CAÑO PVC 40MM X 4M LIVIANO",
+   "costo": 5950.72,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10364",
+   "descripcion": "CAÑO PVC 40MM X 4M REFORZADO",
+   "costo": 5642.89,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10371",
+   "descripcion": "CAÑO PVC 50MM X 4M LIVIANO",
+   "costo": 7121.3,
+   "peso_kg": 5.0,
+   "cod_proveedor": "DA-20312"
+  },
+  {
+   "codigo": "10378",
+   "descripcion": "CAÑO PVC 63MM X 4M LIVIANO",
+   "costo": 8206.95,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10385",
+   "descripcion": "CAÑO PVC 63MM X 4M REFORZADO",
+   "costo": 8689.86,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10392",
+   "descripcion": "CAÑO TERMOFUSION 20MM X 4M",
+   "costo": 7165.79,
+   "peso_kg": 1.2,
+   "cod_proveedor": "DA-20063"
+  },
+  {
+   "codigo": "10399",
+   "descripcion": "CEMENTO ALBAÑILERIA LOMA ANDINA X 40KG",
+   "costo": 5002.02,
+   "peso_kg": 40.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10406",
+   "descripcion": "CEMENTO ALBAÑILERIA PATAGON X 40KG",
+   "costo": 5350.62,
+   "peso_kg": 40.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10413",
+   "descripcion": "CEMENTO PORTLAND CORDILLERA X 50KG",
+   "costo": 7637.15,
+   "peso_kg": 50.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10420",
+   "descripcion": "CEMENTO PORTLAND LOMA ANDINA X 25KG",
+   "costo": 4028.57,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10427",
+   "descripcion": "CEMENTO PORTLAND LOMA ANDINA X 50KG",
+   "costo": 8329.27,
+   "peso_kg": 50.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10434",
+   "descripcion": "CEMENTO PORTLAND PATAGON X 25KG",
+   "costo": 4020.35,
+   "peso_kg": 25.0,
+   "cod_proveedor": "DA-20204"
+  },
+  {
+   "codigo": "10441",
+   "descripcion": "CEMENTO PORTLAND PATAGON X 50KG",
+   "costo": 8089.94,
+   "peso_kg": 50.0,
+   "cod_proveedor": "DA-20117"
+  },
+  {
+   "codigo": "10448",
+   "descripcion": "CERAMICA PISO 30X30 BEIGE 1RA",
+   "costo": 9302.15,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10455",
+   "descripcion": "CERAMICA PISO 30X30 BEIGE 2DA",
+   "costo": 9606.82,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10462",
+   "descripcion": "CERAMICA PISO 30X30 GRIS 2DA",
+   "costo": 8711.7,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10469",
+   "descripcion": "CERAMICA PISO 30X30 MARRON 1RA",
+   "costo": 8862.74,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10476",
+   "descripcion": "CERAMICA PISO 30X30 MARRON 2DA",
+   "costo": 9818.89,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10483",
+   "descripcion": "CERAMICA PISO 45X45 BEIGE 2DA",
+   "costo": 8686.97,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10490",
+   "descripcion": "CERAMICA PISO 45X45 GRIS 1RA",
+   "costo": 8696.71,
+   "peso_kg": 22.0,
+   "cod_proveedor": "DA-20144"
+  },
+  {
+   "codigo": "10497",
+   "descripcion": "CERAMICA PISO 45X45 GRIS 2DA",
+   "costo": 9207.51,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10504",
+   "descripcion": "CERAMICA PISO 45X45 MARRON 1RA",
+   "costo": 8825.11,
+   "peso_kg": 22.0,
+   "cod_proveedor": "DA-20768"
+  },
+  {
+   "codigo": "10511",
+   "descripcion": "CERAMICA PISO 45X45 MARRON 2DA",
+   "costo": 9568.26,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10518",
+   "descripcion": "CERAMICA PISO 60X60 BEIGE 2DA",
+   "costo": 9928.45,
+   "peso_kg": 22.0,
+   "cod_proveedor": "DA-20816"
+  },
+  {
+   "codigo": "10525",
+   "descripcion": "CERAMICA PISO 60X60 GRIS 1RA",
+   "costo": 8852.14,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10532",
+   "descripcion": "CERAMICA PISO 60X60 GRIS 2DA",
+   "costo": 9317.45,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10539",
+   "descripcion": "CERAMICA PISO 60X60 MARRON 1RA",
+   "costo": 9413.17,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10546",
+   "descripcion": "CERAMICA PISO 60X60 MARRON 2DA",
+   "costo": 9004.05,
+   "peso_kg": 22.0,
+   "cod_proveedor": "DA-20873"
+  },
+  {
+   "codigo": "10553",
+   "descripcion": "CHAPA ACANALADA CINCALUM C25 X 3.5M",
+   "costo": 11042.96,
+   "peso_kg": 18.0,
+   "cod_proveedor": "DA-20216"
+  },
+  {
+   "codigo": "10560",
+   "descripcion": "CHAPA ACANALADA CINCALUM C25 X 4M",
+   "costo": 13691.56,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10567",
+   "descripcion": "CHAPA ACANALADA CINCALUM C25 X 5M",
+   "costo": 14935.51,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10574",
+   "descripcion": "CHAPA ACANALADA CINCALUM C25 X 6M",
+   "costo": 17044.09,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10581",
+   "descripcion": "CHAPA ACANALADA CINCALUM C27 X 3.5M",
+   "costo": 11624.09,
+   "peso_kg": 18.0,
+   "cod_proveedor": "DA-20561"
+  },
+  {
+   "codigo": "10588",
+   "descripcion": "CHAPA ACANALADA CINCALUM C27 X 4.5M",
+   "costo": 14216.53,
+   "peso_kg": 18.0,
+   "cod_proveedor": "DA-20759"
+  },
+  {
+   "codigo": "10595",
+   "descripcion": "CHAPA ACANALADA CINCALUM C27 X 4M",
+   "costo": 13280.81,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10602",
+   "descripcion": "CHAPA ACANALADA CINCALUM C27 X 6M",
+   "costo": 19236.17,
+   "peso_kg": 18.0,
+   "cod_proveedor": "DA-20549"
+  },
+  {
+   "codigo": "10609",
+   "descripcion": "CHAPA ACANALADA GALV C25 X 3M",
+   "costo": 10204.8,
+   "peso_kg": 18.0,
+   "cod_proveedor": "DA-20669"
+  },
+  {
+   "codigo": "10616",
+   "descripcion": "CHAPA ACANALADA GALV C25 X 6M",
+   "costo": 18985.6,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10623",
+   "descripcion": "CHAPA ACANALADA GALV C27 X 3.5M",
+   "costo": 10439.75,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10630",
+   "descripcion": "CHAPA ACANALADA GALV C27 X 3M",
+   "costo": 10321.56,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10637",
+   "descripcion": "CHAPA ACANALADA GALV C27 X 4.5M",
+   "costo": 13981.43,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10644",
+   "descripcion": "CHAPA ACANALADA GALV C27 X 4M",
+   "costo": 13209.63,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10651",
+   "descripcion": "CHAPA ACANALADA GALV C27 X 5M",
+   "costo": 14440.6,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10658",
+   "descripcion": "CHAPA ACANALADA GALVANIZADA C25 X 5M",
+   "costo": 14577.95,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10665",
+   "descripcion": "CHAPA ACANALADA GALVANIZADA C27 X 6M",
+   "costo": 19197.85,
+   "peso_kg": 18.0,
+   "cod_proveedor": "DA-20189"
+  },
+  {
+   "codigo": "10672",
+   "descripcion": "CINTA MALLA PLACA YESO X 23M",
+   "costo": 1683.22,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10679",
+   "descripcion": "CINTA MALLA PLACA YESO X 75M",
+   "costo": 5508.58,
+   "peso_kg": 0.3,
+   "cod_proveedor": "DA-20525"
+  },
+  {
+   "codigo": "10686",
+   "descripcion": "CINTA PAPEL PLACA YESO X 150M",
+   "costo": 9034.93,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10693",
+   "descripcion": "CINTA PAPEL PLACA YESO X 23M",
+   "costo": 1806.93,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10700",
+   "descripcion": "CLAVO PUNTA PARIS 1.5\" X 1KG",
+   "costo": 3242.28,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10707",
+   "descripcion": "CLAVO PUNTA PARIS 1.5\" X 5KG",
+   "costo": 14611.45,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10714",
+   "descripcion": "CLAVO PUNTA PARIS 2\" X 1KG",
+   "costo": 3256.79,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10721",
+   "descripcion": "CLAVO PUNTA PARIS 2\" X 5KG",
+   "costo": 13372.35,
+   "peso_kg": 5.0,
+   "cod_proveedor": "DA-20579"
+  },
+  {
+   "codigo": "10728",
+   "descripcion": "CLAVO PUNTA PARIS 2.5\" X 1KG",
+   "costo": 3351.97,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10735",
+   "descripcion": "CLAVO PUNTA PARIS 3\" X 1KG",
+   "costo": 3249.0,
+   "peso_kg": 1.0,
+   "cod_proveedor": "DA-20489"
+  },
+  {
+   "codigo": "10742",
+   "descripcion": "CLAVO PUNTA PARIS 3\" X 5KG",
+   "costo": 15215.03,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10749",
+   "descripcion": "CLAVO PUNTA PARIS 4\" X 1KG",
+   "costo": 3306.57,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10756",
+   "descripcion": "CLAVO PUNTA PARIS 4\" X 5KG",
+   "costo": 14494.56,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10763",
+   "descripcion": "CODO EPOXI GAS 1/2\" 90°",
+   "costo": 2425.32,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10770",
+   "descripcion": "CODO PVC 110MM 90°",
+   "costo": 1584.28,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10777",
+   "descripcion": "CODO PVC 40MM 45°",
+   "costo": 674.4,
+   "peso_kg": 0.3,
+   "cod_proveedor": "DA-20318"
+  },
+  {
+   "codigo": "10784",
+   "descripcion": "CODO PVC 40MM 90°",
+   "costo": 626.39,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10791",
+   "descripcion": "CODO PVC 50MM 45°",
+   "costo": 817.34,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10798",
+   "descripcion": "CODO PVC 50MM 90°",
+   "costo": 847.91,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10805",
+   "descripcion": "CODO PVC 63MM 45°",
+   "costo": 992.67,
+   "peso_kg": 0.3,
+   "cod_proveedor": "DA-20597"
+  },
+  {
+   "codigo": "10812",
+   "descripcion": "CODO PVC 63MM 90°",
+   "costo": 921.26,
+   "peso_kg": 0.3,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10819",
+   "descripcion": "CODO TERMOF 20MM 90°",
+   "costo": 450.39,
+   "peso_kg": 0.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10826",
+   "descripcion": "CODO TERMOFUSION 25MM 90°",
+   "costo": 555.57,
+   "peso_kg": 0.1,
+   "cod_proveedor": "DA-20264"
+  },
+  {
+   "codigo": "10833",
+   "descripcion": "CODO TERMOFUSION 32MM 90°",
+   "costo": 693.32,
+   "peso_kg": 0.1,
+   "cod_proveedor": "DA-20471"
+  },
+  {
+   "codigo": "10840",
+   "descripcion": "CUMBRERA CINCALUM C25 X 2M",
+   "costo": 8040.0,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10847",
+   "descripcion": "CUMBRERA CINCALUM C25 X 3M",
+   "costo": 12876.88,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10854",
+   "descripcion": "CUMBRERA GALVANIZADA C25 X 2M",
+   "costo": 8978.03,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10861",
+   "descripcion": "CUMBRERA GALVANIZADA C25 X 3M",
+   "costo": 12728.02,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10868",
+   "descripcion": "DISCO CORTE METAL 115MM",
+   "costo": 2784.28,
+   "peso_kg": 0.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10875",
+   "descripcion": "DISCO CORTE METAL 180MM",
+   "costo": 4203.33,
+   "peso_kg": 0.2,
+   "cod_proveedor": "DA-20654"
+  },
+  {
+   "codigo": "10882",
+   "descripcion": "DISCO DIAMANTADO 115MM",
+   "costo": 2929.52,
+   "peso_kg": 0.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10889",
+   "descripcion": "DISCO DIAMANTADO 180MM",
+   "costo": 4651.74,
+   "peso_kg": 0.2,
+   "cod_proveedor": "DA-20060"
+  },
+  {
+   "codigo": "10896",
+   "descripcion": "ENDUIDO PLASTICO EXTERIOR X 10KG",
+   "costo": 17855.17,
+   "peso_kg": 10.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10903",
+   "descripcion": "ENDUIDO PLASTICO EXTERIOR X 1KG",
+   "costo": 2170.3,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10910",
+   "descripcion": "ENDUIDO PLASTICO EXTERIOR X 4KG",
+   "costo": 8060.6,
+   "peso_kg": 4.0,
+   "cod_proveedor": "DA-20249"
+  },
+  {
+   "codigo": "10917",
+   "descripcion": "ENDUIDO PLASTICO INTERIOR X 10KG",
+   "costo": 17519.97,
+   "peso_kg": 10.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10924",
+   "descripcion": "ENDUIDO PLASTICO INTERIOR X 1KG",
+   "costo": 2217.52,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10931",
+   "descripcion": "ENDUIDO PLASTICO INTERIOR X 4KG",
+   "costo": 7640.14,
+   "peso_kg": 4.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10938",
+   "descripcion": "ESMALTE SINT GRIS X 1L",
+   "costo": 8262.15,
+   "peso_kg": 1.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10945",
+   "descripcion": "ESMALTE SINT NEGRO X 4L",
+   "costo": 25705.37,
+   "peso_kg": 1.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10952",
+   "descripcion": "ESMALTE SINTETICO BCO X 4L",
+   "costo": 28481.81,
+   "peso_kg": 1.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10959",
+   "descripcion": "ESMALTE SINTETICO BLANCO X 1L",
+   "costo": 7558.87,
+   "peso_kg": 1.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10966",
+   "descripcion": "ESMALTE SINTETICO GRIS X 4L",
+   "costo": 26439.7,
+   "peso_kg": 1.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10973",
+   "descripcion": "ESMALTE SINTETICO NEGRO X 1L",
+   "costo": 8084.97,
+   "peso_kg": 1.2,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10980",
+   "descripcion": "ESPUMA POLIURETANO X 300ML",
+   "costo": 6761.23,
+   "peso_kg": 0.6,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10987",
+   "descripcion": "ESPUMA POLIURETANO X 500ML",
+   "costo": 11507.36,
+   "peso_kg": 0.6,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "10994",
+   "descripcion": "ESPUMA POLIURETANO X 750ML",
+   "costo": 15418.93,
+   "peso_kg": 0.6,
+   "cod_proveedor": "DA-20504"
+  },
+  {
+   "codigo": "11001",
+   "descripcion": "FENOLICO 12MM 1.22X2.44",
+   "costo": 31642.72,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11008",
+   "descripcion": "FENOLICO 15MM 1.22X2.44",
+   "costo": 36421.82,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11015",
+   "descripcion": "FENOLICO 18MM 1.22X2.44",
+   "costo": 42593.0,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11022",
+   "descripcion": "FIELTRO ASFALTICO N15 X 40M2",
+   "costo": 28154.95,
+   "peso_kg": 15.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11029",
+   "descripcion": "FIELTRO ASFALTICO N20 X 40M2",
+   "costo": 32224.03,
+   "peso_kg": 15.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11036",
+   "descripcion": "FIJADOR SELLADOR X 10L",
+   "costo": 34985.4,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11043",
+   "descripcion": "FIJADOR SELLADOR X 1L",
+   "costo": 4084.42,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11050",
+   "descripcion": "FIJADOR SELLADOR X 4L",
+   "costo": 13640.96,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11057",
+   "descripcion": "HIDROFUGO ANDINA X 10KG",
+   "costo": 16614.92,
+   "peso_kg": 10.0,
+   "cod_proveedor": "DA-20321"
+  },
+  {
+   "codigo": "11064",
+   "descripcion": "HIDROFUGO ANDINA X 1KG",
+   "costo": 2122.63,
+   "peso_kg": 1.0,
+   "cod_proveedor": "DA-20693"
+  },
+  {
+   "codigo": "11071",
+   "descripcion": "HIDROFUGO ANDINA X 20KG",
+   "costo": 31658.53,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11078",
+   "descripcion": "HIDROFUGO ANDINA X 4KG",
+   "costo": 7871.88,
+   "peso_kg": 4.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11085",
+   "descripcion": "HIDROFUGO LAGO X 10KG",
+   "costo": 15402.56,
+   "peso_kg": 10.0,
+   "cod_proveedor": "DA-20591"
+  },
+  {
+   "codigo": "11092",
+   "descripcion": "HIDROFUGO LAGO X 1KG",
+   "costo": 2066.06,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11099",
+   "descripcion": "HIDROFUGO LAGO X 20KG",
+   "costo": 28973.12,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11106",
+   "descripcion": "HIERRO ADN420 10MM X 12M",
+   "costo": 8199.46,
+   "peso_kg": 8.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11113",
+   "descripcion": "HIERRO ADN420 12MM X 12M",
+   "costo": 9596.5,
+   "peso_kg": 8.0,
+   "cod_proveedor": "DA-20360"
+  },
+  {
+   "codigo": "11120",
+   "descripcion": "HIERRO ADN420 16MM X 12M",
+   "costo": 11674.42,
+   "peso_kg": 8.0,
+   "cod_proveedor": "DA-20453"
+  },
+  {
+   "codigo": "11127",
+   "descripcion": "HIERRO ADN420 20MM X 12M",
+   "costo": 15928.3,
+   "peso_kg": 8.0,
+   "cod_proveedor": "DA-20774"
+  },
+  {
+   "codigo": "11134",
+   "descripcion": "HIERRO ADN420 6MM X 12M",
+   "costo": 4982.02,
+   "peso_kg": 8.0,
+   "cod_proveedor": "DA-20240"
+  },
+  {
+   "codigo": "11141",
+   "descripcion": "HIERRO ADN420 8MM X 12M",
+   "costo": 6977.46,
+   "peso_kg": 8.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11148",
+   "descripcion": "LADRILLO HUECO 12X18X33",
+   "costo": 651.77,
+   "peso_kg": 4.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11155",
+   "descripcion": "LADRILLO HUECO 18X18X33",
+   "costo": 911.33,
+   "peso_kg": 4.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11162",
+   "descripcion": "LADRILLO HUECO 8X18X33",
+   "costo": 394.15,
+   "peso_kg": 4.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11169",
+   "descripcion": "LANA VIDRIO 100MM C/ALUMINIO",
+   "costo": 88622.95,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11176",
+   "descripcion": "LANA VIDRIO 100MM S/ALUMINIO",
+   "costo": 81463.38,
+   "peso_kg": 12.0,
+   "cod_proveedor": "DA-20789"
+  },
+  {
+   "codigo": "11183",
+   "descripcion": "LANA VIDRIO 50MM C/ALUMINIO",
+   "costo": 43116.49,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11190",
+   "descripcion": "LATEX EXT ANDINA X 10L MARFIL",
+   "costo": 11000.11,
+   "peso_kg": 6.0,
+   "cod_proveedor": "DA-20012"
+  },
+  {
+   "codigo": "11197",
+   "descripcion": "LATEX EXT LAGO X 10L BLANCO",
+   "costo": 11718.11,
+   "peso_kg": 6.0,
+   "cod_proveedor": "DA-20354"
+  },
+  {
+   "codigo": "11204",
+   "descripcion": "LATEX EXTERIOR ANDINA X 20L BCO",
+   "costo": 21823.36,
+   "peso_kg": 6.0,
+   "cod_proveedor": "DA-20021"
+  },
+  {
+   "codigo": "11211",
+   "descripcion": "LATEX EXTERIOR ANDINA X 20L MARFIL",
+   "costo": 23448.19,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11218",
+   "descripcion": "LATEX EXTERIOR ANDINA X 4L BLANCO",
+   "costo": 5522.35,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11225",
+   "descripcion": "LATEX EXTERIOR LAGO X 4L MARFIL",
+   "costo": 5347.77,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11232",
+   "descripcion": "LATEX INT LAGO X 10L MARFIL",
+   "costo": 12640.74,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11239",
+   "descripcion": "LATEX INT LAGO X 20L BCO",
+   "costo": 23131.88,
+   "peso_kg": 6.0,
+   "cod_proveedor": "DA-20408"
+  },
+  {
+   "codigo": "11246",
+   "descripcion": "LATEX INT LAGO X 20L MARFIL",
+   "costo": 23380.64,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11253",
+   "descripcion": "LATEX INT LAGO X 4L MARFIL",
+   "costo": 5336.19,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11260",
+   "descripcion": "LATEX INTERIOR ANDINA X 10L MARFIL",
+   "costo": 11449.62,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11267",
+   "descripcion": "LATEX INTERIOR ANDINA X 20L MARFIL",
+   "costo": 21503.65,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11274",
+   "descripcion": "LATEX INTERIOR ANDINA X 4L BCO",
+   "costo": 5026.83,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11281",
+   "descripcion": "LATEX INTERIOR ANDINA X 4L MARFIL",
+   "costo": 4986.78,
+   "peso_kg": 6.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11288",
+   "descripcion": "MACHIMBRE PINO 1/2\" X 3.05M",
+   "costo": 4064.18,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11295",
+   "descripcion": "MACHIMBRE PINO 1/2\" X 3.66M",
+   "costo": 4295.25,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11302",
+   "descripcion": "MACHIMBRE PINO 3/4\" X 3.66M",
+   "costo": 4401.17,
+   "peso_kg": 3.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11309",
+   "descripcion": "MALLA SIMA 15X15 4MM 2X5M",
+   "costo": 20874.43,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11316",
+   "descripcion": "MALLA SIMA 15X15 5MM 2X5M",
+   "costo": 27154.91,
+   "peso_kg": 18.0,
+   "cod_proveedor": "DA-20072"
+  },
+  {
+   "codigo": "11323",
+   "descripcion": "MALLA SIMA 15X25 4MM 2X5M",
+   "costo": 22171.62,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11330",
+   "descripcion": "MALLA SIMA 15X25 5MM 2X5M",
+   "costo": 27168.47,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11337",
+   "descripcion": "MALLA SIMA 15X25 6MM 2X5M",
+   "costo": 32597.1,
+   "peso_kg": 18.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11344",
+   "descripcion": "MASILLA PLACA YESO X 15KG",
+   "costo": 11633.98,
+   "peso_kg": 15.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11351",
+   "descripcion": "MASILLA PLACA YESO X 7KG",
+   "costo": 5944.31,
+   "peso_kg": 7.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11358",
+   "descripcion": "MEMBRANA ASFALTICA ALUMINIO 35KG X 10M2",
+   "costo": 52512.4,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11365",
+   "descripcion": "MEMBRANA ASFALTICA ALUMINIO 40KG X 10M2",
+   "costo": 62145.64,
+   "peso_kg": 40.0,
+   "cod_proveedor": "DA-20615"
+  },
+  {
+   "codigo": "11372",
+   "descripcion": "MEMBRANA ASFALTICA GEOTEXTIL 35KG X 10M2",
+   "costo": 53839.22,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11379",
+   "descripcion": "MEMBRANA ASFALTICA GEOTEXTIL 40KG X 10M2",
+   "costo": 59371.35,
+   "peso_kg": 40.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11386",
+   "descripcion": "MEMBRANA LIQUIDA BLANCO X 20KG",
+   "costo": 22276.61,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11393",
+   "descripcion": "MEMBRANA LIQUIDA BLANCO X 5KG",
+   "costo": 5942.59,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11400",
+   "descripcion": "MEMBRANA LIQUIDA ROJO X 10KG",
+   "costo": 11970.21,
+   "peso_kg": 10.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11407",
+   "descripcion": "MEMBRANA LIQUIDA ROJO X 20KG",
+   "costo": 21144.49,
+   "peso_kg": 20.0,
+   "cod_proveedor": "DA-20582"
+  },
+  {
+   "codigo": "11414",
+   "descripcion": "MEMBRANA LIQUIDA ROJO X 5KG",
+   "costo": 5971.74,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11421",
+   "descripcion": "MONTANTE 35MM X 2.60M",
+   "costo": 3741.58,
+   "peso_kg": 1.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11428",
+   "descripcion": "MONTANTE 70MM X 2.60M",
+   "costo": 6861.03,
+   "peso_kg": 1.5,
+   "cod_proveedor": "DA-20015"
+  },
+  {
+   "codigo": "11435",
+   "descripcion": "OSB 11MM 1.22X2.44",
+   "costo": 22026.88,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11442",
+   "descripcion": "OSB 15MM 1.22X2.44",
+   "costo": 25728.42,
+   "peso_kg": 20.0,
+   "cod_proveedor": "DA-20351"
+  },
+  {
+   "codigo": "11449",
+   "descripcion": "OSB 18MM 1.22X2.44",
+   "costo": 30579.69,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11456",
+   "descripcion": "OSB 9MM 1.22X2.44",
+   "costo": 16888.96,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11463",
+   "descripcion": "PALA CORAZON",
+   "costo": 23694.1,
+   "peso_kg": 2.0,
+   "cod_proveedor": "DA-20393"
+  },
+  {
+   "codigo": "11470",
+   "descripcion": "PALA PUNTA",
+   "costo": 24121.25,
+   "peso_kg": 2.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11477",
+   "descripcion": "PASTINA BEIGE X 1KG",
+   "costo": 1451.63,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11484",
+   "descripcion": "PASTINA BEIGE X 5KG",
+   "costo": 6653.23,
+   "peso_kg": 5.0,
+   "cod_proveedor": "DA-20882"
+  },
+  {
+   "codigo": "11491",
+   "descripcion": "PASTINA BLANCA X 5KG",
+   "costo": 6652.67,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11498",
+   "descripcion": "PASTINA NEGRA X 1KG",
+   "costo": 1497.27,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11505",
+   "descripcion": "PASTINA NEGRA X 5KG",
+   "costo": 6723.88,
+   "peso_kg": 5.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11512",
+   "descripcion": "PERFIL C 100X50X15 1.6MM X 12M",
+   "costo": 46773.01,
+   "peso_kg": 35.0,
+   "cod_proveedor": "DA-20708"
+  },
+  {
+   "codigo": "11519",
+   "descripcion": "PERFIL C 120X50X15 1.6MM X 12M",
+   "costo": 51717.62,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11526",
+   "descripcion": "PERFIL C 120X50X15 2.5MM X 12M",
+   "costo": 52555.49,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11533",
+   "descripcion": "PERFIL C 140X50X15 1.6MM X 12M",
+   "costo": 62111.87,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11540",
+   "descripcion": "PERFIL C 140X50X15 2MM X 12M",
+   "costo": 59166.47,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11547",
+   "descripcion": "PERFIL C 160X50X15 1.6MM X 12M",
+   "costo": 75959.91,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11554",
+   "descripcion": "PERFIL C 160X50X15 2.5MM X 12M",
+   "costo": 65712.24,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11561",
+   "descripcion": "PERFIL C 160X50X15 2MM X 12M",
+   "costo": 74706.72,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11568",
+   "descripcion": "PERFIL C 80X50X15 1.6MM X 12M",
+   "costo": 41030.6,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11575",
+   "descripcion": "PERFIL C 80X50X15 2.5MM X 12M",
+   "costo": 40305.96,
+   "peso_kg": 35.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11582",
+   "descripcion": "PIEDRA PARTIDA BOLSA X 25KG",
+   "costo": 1241.52,
+   "peso_kg": 25.0,
+   "cod_proveedor": "DA-20228"
+  },
+  {
+   "codigo": "11589",
+   "descripcion": "PIEDRA PARTIDA BOLSON X 1M3",
+   "costo": 39630.22,
+   "peso_kg": 1500.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11596",
+   "descripcion": "PLACA YESO ESTANDAR 12.5MM 1.20X2.40",
+   "costo": 16232.8,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11603",
+   "descripcion": "PLACA YESO ESTANDAR 9.5MM 1.20X2.40",
+   "costo": 12195.53,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11610",
+   "descripcion": "PLACA YESO RESISTENTE HUMEDAD 9.5MM 1.20X2.40",
+   "costo": 12592.53,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11617",
+   "descripcion": "POLIETILENO NEGRO 100 MICRONES X 50M",
+   "costo": 58302.36,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11624",
+   "descripcion": "POLIETILENO NEGRO 150 MICRONES X 50M",
+   "costo": 88378.67,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11631",
+   "descripcion": "POLIETILENO NEGRO 200 MICRONES X 50M",
+   "costo": 100921.63,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11638",
+   "descripcion": "PORCELANATO 60X60 PULIDO BEIGE",
+   "costo": 19609.68,
+   "peso_kg": 28.0,
+   "cod_proveedor": "DA-20174"
+  },
+  {
+   "codigo": "11645",
+   "descripcion": "PORCELANATO 60X60 PULIDO GRIS",
+   "costo": 20559.54,
+   "peso_kg": 28.0,
+   "cod_proveedor": "DA-20795"
+  },
+  {
+   "codigo": "11652",
+   "descripcion": "PORCELANATO 80X80 MATE BEIGE",
+   "costo": 21703.36,
+   "peso_kg": 28.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11659",
+   "descripcion": "PORCELANATO 80X80 PULIDO BEIGE",
+   "costo": 19753.55,
+   "peso_kg": 28.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11666",
+   "descripcion": "PORCELANATO 80X80 PULIDO GRIS",
+   "costo": 20477.57,
+   "peso_kg": 28.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11673",
+   "descripcion": "PROTECTOR MADERA CEDRO X 1L",
+   "costo": 9930.01,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11680",
+   "descripcion": "PROTECTOR MADERA CEDRO X 4L",
+   "costo": 30168.75,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11687",
+   "descripcion": "PROTECTOR MADERA NATURAL X 1L",
+   "costo": 8789.85,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11694",
+   "descripcion": "PROTECTOR MADERA NOGAL X 1L",
+   "costo": 9533.55,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11701",
+   "descripcion": "PROTECTOR MADERA NOGAL X 4L",
+   "costo": 32629.07,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11708",
+   "descripcion": "PROTECTOR MADERA ROBLE X 1L",
+   "costo": 9116.66,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11715",
+   "descripcion": "PROTECTOR MADERA ROBLE X 4L",
+   "costo": 32988.02,
+   "peso_kg": 1.1,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11722",
+   "descripcion": "PUERTA PLACA 70CM DERECHA",
+   "costo": 83505.1,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11729",
+   "descripcion": "PUERTA PLACA 70CM IZQUIERDA",
+   "costo": 81013.37,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11736",
+   "descripcion": "PUERTA PLACA 80CM DERECHA",
+   "costo": 91377.12,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11743",
+   "descripcion": "PUERTA PLACA 80CM IZQUIERDA",
+   "costo": 103279.76,
+   "peso_kg": 22.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11750",
+   "descripcion": "REVOQUE FINO ANDINA X 25KG",
+   "costo": 3718.73,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11757",
+   "descripcion": "REVOQUE FINO LAGO X 25KG",
+   "costo": 3694.79,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11764",
+   "descripcion": "REVOQUE GRUESO ANDINA X 25KG",
+   "costo": 3756.45,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11771",
+   "descripcion": "REVOQUE GRUESO LAGO X 25KG",
+   "costo": 4113.94,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11778",
+   "descripcion": "RIPIO BOLSA X 25KG",
+   "costo": 1290.94,
+   "peso_kg": 25.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11785",
+   "descripcion": "RIPIO BOLSON X 1M3",
+   "costo": 43804.25,
+   "peso_kg": 1500.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11792",
+   "descripcion": "SELLADOR SILICONA ACETICA NEGRO X 280ML",
+   "costo": 5325.91,
+   "peso_kg": 0.35,
+   "cod_proveedor": "DA-20477"
+  },
+  {
+   "codigo": "11799",
+   "descripcion": "SELLADOR SILICONA NEUTRA BLANCO X 280ML",
+   "costo": 5629.1,
+   "peso_kg": 0.35,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11806",
+   "descripcion": "SELLADOR SILICONA NEUTRA NEGRO X 280ML",
+   "costo": 5494.71,
+   "peso_kg": 0.35,
+   "cod_proveedor": "DA-20510"
+  },
+  {
+   "codigo": "11813",
+   "descripcion": "SELLADOR SILICONA NEUTRA TRANSPARENTE X 280ML",
+   "costo": 5471.11,
+   "peso_kg": 0.35,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11820",
+   "descripcion": "SOLERA 35MM X 2.60M",
+   "costo": 3513.24,
+   "peso_kg": 1.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11827",
+   "descripcion": "SOLERA 70MM X 2.60M",
+   "costo": 6337.82,
+   "peso_kg": 1.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11834",
+   "descripcion": "TANQUE AGUA BICAPA X 1000L",
+   "costo": 192405.43,
+   "peso_kg": 20.0,
+   "cod_proveedor": "DA-20414"
+  },
+  {
+   "codigo": "11841",
+   "descripcion": "TANQUE AGUA BICAPA X 1100L",
+   "costo": 209797.65,
+   "peso_kg": 20.0,
+   "cod_proveedor": "DA-20126"
+  },
+  {
+   "codigo": "11848",
+   "descripcion": "TANQUE AGUA BICAPA X 500L",
+   "costo": 103154.13,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11855",
+   "descripcion": "TANQUE AGUA BICAPA X 750L",
+   "costo": 141650.04,
+   "peso_kg": 20.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11862",
+   "descripcion": "TANQUE AGUA TRICAPA X 500L",
+   "costo": 97446.63,
+   "peso_kg": 20.0,
+   "cod_proveedor": "DA-20135"
+  },
+  {
+   "codigo": "11869",
+   "descripcion": "TANQUE AGUA TRICAPA X 750L",
+   "costo": 141030.29,
+   "peso_kg": 20.0,
+   "cod_proveedor": "DA-20576"
+  },
+  {
+   "codigo": "11876",
+   "descripcion": "TELGOPOR PLACA 10MM D20 1X1M",
+   "costo": 1813.4,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11883",
+   "descripcion": "TELGOPOR PLACA 20MM D15 1X1M",
+   "costo": 3438.67,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11890",
+   "descripcion": "TELGOPOR PLACA 20MM D20 1X1M",
+   "costo": 3350.14,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11897",
+   "descripcion": "TELGOPOR PLACA 30MM D15 1X1M",
+   "costo": 4920.75,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11904",
+   "descripcion": "TELGOPOR PLACA 50MM D15 1X1M",
+   "costo": 7584.21,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11911",
+   "descripcion": "TELGOPOR PLACA 50MM D20 1X1M",
+   "costo": 7839.82,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11918",
+   "descripcion": "TIRANTE PINO 2X4\" X 3.05M",
+   "costo": 9122.22,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11925",
+   "descripcion": "TIRANTE PINO 2X4\" X 3.66M",
+   "costo": 11221.98,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11932",
+   "descripcion": "TIRANTE PINO 2X6\" X 3.05M",
+   "costo": 8790.93,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11939",
+   "descripcion": "TIRANTE PINO 2X6\" X 3.66M",
+   "costo": 11244.07,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11946",
+   "descripcion": "TIRANTE PINO 2X6\" X 4.27M",
+   "costo": 13011.5,
+   "peso_kg": 12.0,
+   "cod_proveedor": "DA-20861"
+  },
+  {
+   "codigo": "11953",
+   "descripcion": "TIRANTE PINO 3X6\" X 3.05M",
+   "costo": 8332.02,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11960",
+   "descripcion": "TIRANTE PINO 3X6\" X 3.66M",
+   "costo": 11118.6,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11967",
+   "descripcion": "TIRANTE PINO 3X6\" X 4.27M",
+   "costo": 11432.52,
+   "peso_kg": 12.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11974",
+   "descripcion": "TORNILLO AUTOPERF 14X1.5\" C/ARANDELA X 100U",
+   "costo": 9984.61,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11981",
+   "descripcion": "TORNILLO AUTOPERF 14X2\" S/ARANDELA X 100U",
+   "costo": 13903.0,
+   "peso_kg": 1.0,
+   "cod_proveedor": "DA-20426"
+  },
+  {
+   "codigo": "11988",
+   "descripcion": "TORNILLO AUTOPERF 14X3\" S/ARANDELA X 100U",
+   "costo": 21204.4,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "11995",
+   "descripcion": "TORNILLO AUTOPERFORANTE 14X1\" S/ARANDELA X 100U",
+   "costo": 7390.2,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12002",
+   "descripcion": "TORNILLO AUTOPERFORANTE 14X2\" C/ARANDELA X 100U",
+   "costo": 13261.83,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12009",
+   "descripcion": "TORNILLO AUTOPERFORANTE 14X2.5\" C/ARANDELA X 100U",
+   "costo": 16876.14,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12016",
+   "descripcion": "TORNILLO AUTOPERFORANTE 14X3\" C/ARANDELA X 100U",
+   "costo": 19288.0,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12023",
+   "descripcion": "TORNILLO T1 PUNTA AGUJA X 100U",
+   "costo": 2654.66,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12030",
+   "descripcion": "TORNILLO T1 PUNTA MECHA X 100U",
+   "costo": 2660.18,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12037",
+   "descripcion": "TORNILLO T2 PUNTA AGUJA X 100U",
+   "costo": 2728.88,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12044",
+   "descripcion": "TORNILLO T2 PUNTA MECHA X 100U",
+   "costo": 2766.04,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12051",
+   "descripcion": "TORNILLO T2 PUNTA MECHA X 500U",
+   "costo": 10487.59,
+   "peso_kg": 0.5,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12058",
+   "descripcion": "VIGUETA PRETENSADA 3.4M",
+   "costo": 16657.19,
+   "peso_kg": 60.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12065",
+   "descripcion": "VIGUETA PRETENSADA 3.8M",
+   "costo": 17366.31,
+   "peso_kg": 60.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12072",
+   "descripcion": "VIGUETA PRETENSADA 3M",
+   "costo": 14096.74,
+   "peso_kg": 60.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12079",
+   "descripcion": "VIGUETA PRETENSADA 4.2M",
+   "costo": 18718.14,
+   "peso_kg": 60.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12086",
+   "descripcion": "VIGUETA PRETENSADA 5M",
+   "costo": 24652.64,
+   "peso_kg": 60.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12093",
+   "descripcion": "YESO PARIS X 1KG",
+   "costo": 943.93,
+   "peso_kg": 1.0,
+   "cod_proveedor": ""
+  },
+  {
+   "codigo": "12100",
+   "descripcion": "YESO PARIS X 40KG",
+   "costo": 26658.24,
+   "peso_kg": 40.0,
+   "cod_proveedor": "DA-20018"
+  }
+ ],
+ "proveedor": [
+  {
+   "codigo": "DA-20213",
+   "descripcion": "Placa poliestireno expandido 20 mm densidad 20 - 1 x 1 m",
+   "precio_lista": 4136.77,
+   "hoja": "AISLACIONES",
+   "fila": 4
+  },
+  {
+   "codigo": "DA-20222",
+   "descripcion": "Film polietileno negro 100 micrones - rollo 50 m",
+   "precio_lista": 63843.2,
+   "hoja": "AISLACIONES",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20255",
+   "descripcion": "Aislante lana vidrio esp. 50mm sin aluminio",
+   "precio_lista": 57819.4,
+   "hoja": "AISLACIONES",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20285",
+   "descripcion": "Placa poliestireno expandido 50 mm densidad 15 - 1 x 1 m",
+   "precio_lista": 8617.53,
+   "hoja": "AISLACIONES",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20294",
+   "descripcion": "Film polietileno negro 200 micrones - rollo 50 m",
+   "precio_lista": 100921.63,
+   "hoja": "AISLACIONES",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20462",
+   "descripcion": "Membrana asfáltica c/aluminio 35 kg - rollo 10 m2",
+   "precio_lista": 60141.87,
+   "hoja": "AISLACIONES",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20537",
+   "descripcion": "Memb. asfáltica geotextil rollo 10m2 40kg",
+   "precio_lista": 76692.33,
+   "hoja": "AISLACIONES",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20546",
+   "descripcion": "Fieltro asáfltico nº 15 - rollo 40 m2",
+   "precio_lista": 29070.0,
+   "hoja": "AISLACIONES",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20615",
+   "descripcion": "Membrana asfáltica c/aluminio 40 kg - rollo 10 m2",
+   "precio_lista": 71539.7,
+   "hoja": "AISLACIONES",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20636",
+   "descripcion": "Placa poliestireno expandido 30 mm densidad 15 - 1 x 1 m",
+   "precio_lista": 5583.07,
+   "hoja": "AISLACIONES",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20642",
+   "descripcion": "Fieltro N°20 rollo x 40m2",
+   "precio_lista": 32224.03,
+   "hoja": "AISLACIONES",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20777",
+   "descripcion": "Aislante lana vidrio esp. 50mm con foil de aluminio",
+   "precio_lista": 43116.49,
+   "hoja": "AISLACIONES",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20789",
+   "descripcion": "Aislante lana vidrio esp. 100mm sin aluminio",
+   "precio_lista": 95341.21,
+   "hoja": "AISLACIONES",
+   "fila": 17
+  },
+  {
+   "codigo": "DA-20870",
+   "descripcion": "Polietileno negro 150 mic. x 50 mts",
+   "precio_lista": 114349.12,
+   "hoja": "AISLACIONES",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20018",
+   "descripcion": "Yeso París - bolsa 40 kg",
+   "precio_lista": 26658.24,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20036",
+   "descripcion": "Hidrófugo Andina balde x 4 kilos",
+   "precio_lista": 9114.9,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20066",
+   "descripcion": "Yeso París - bolsa 1 kg",
+   "precio_lista": 1221.93,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20087",
+   "descripcion": "Hidrófugo Lago balde x 4 kilos",
+   "precio_lista": 7637.7,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20105",
+   "descripcion": "Pastina blanca bolsa x 1 kg",
+   "precio_lista": 1876.19,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20117",
+   "descripcion": "Cemento Pórtland CPC40 Patagon - bolsa 50 kg",
+   "precio_lista": 8089.94,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20141",
+   "descripcion": "Pastina para juntas negra 1 kg",
+   "precio_lista": 1680.26,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20192",
+   "descripcion": "Revoque grueso premezclado Andina - bolsa 25 kg",
+   "precio_lista": 4106.14,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20195",
+   "descripcion": "Cem. Portland Cordillera bolsa x 25 kg",
+   "precio_lista": 5126.21,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20204",
+   "descripcion": "Cem. Potrland Patagon bolsa x 25 kg",
+   "precio_lista": 4020.35,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20207",
+   "descripcion": "Adhesivo para cerámicos común Lago - bolsa 30 kg",
+   "precio_lista": 8751.46,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 15
+  },
+  {
+   "codigo": "DA-20276",
+   "descripcion": "Cal aérea hidratada Andina x 30 kilos",
+   "precio_lista": 4717.84,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 17
+  },
+  {
+   "codigo": "DA-20282",
+   "descripcion": "Adhesivo para cerámicos común Andina - bolsa 30 kg",
+   "precio_lista": 7398.12,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20306",
+   "descripcion": "Pastina negra bolsa x 5 kg",
+   "precio_lista": 6723.88,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20321",
+   "descripcion": "Hidrófugo en pasta Andina - 10 kg",
+   "precio_lista": 18615.89,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20339",
+   "descripcion": "Pastina blanca bolsa x 5 kg",
+   "precio_lista": 7989.27,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20468",
+   "descripcion": "Cem. albañilería Patagon x 40 kg",
+   "precio_lista": 5342.45,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 22
+  },
+  {
+   "codigo": "DA-20480",
+   "descripcion": "Hidrófugo en pasta Lago - 1 kg",
+   "precio_lista": 2457.33,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 24
+  },
+  {
+   "codigo": "DA-20498",
+   "descripcion": "Revoque grueso premezclado Lago - bolsa 25 kg",
+   "precio_lista": 4697.25,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20507",
+   "descripcion": "Cal hidratada Lago - bolsa 25 kg",
+   "precio_lista": 4043.73,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20522",
+   "descripcion": "Cemento Pórtland CPC40 Loma Andina - bolsa 50 kg",
+   "precio_lista": 8253.56,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 27
+  },
+  {
+   "codigo": "DA-20552",
+   "descripcion": "Adhesivo para cerámicos porcellanato Lago - bolsa 30 kg",
+   "precio_lista": 6354.91,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 28
+  },
+  {
+   "codigo": "DA-20591",
+   "descripcion": "Hidrófugo en pasta Lago - 10 kg",
+   "precio_lista": 16656.43,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 30
+  },
+  {
+   "codigo": "DA-20627",
+   "descripcion": "Revoque fino premezclado Andina - bolsa 25 kg",
+   "precio_lista": 4535.15,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 31
+  },
+  {
+   "codigo": "DA-20675",
+   "descripcion": "Pastina gris bolsa x 1 kg",
+   "precio_lista": 1740.51,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 32
+  },
+  {
+   "codigo": "DA-20690",
+   "descripcion": "Pegamento cerámico impermeable Andina 30 kg",
+   "precio_lista": 10244.59,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 33
+  },
+  {
+   "codigo": "DA-20693",
+   "descripcion": "Hidrófugo en pasta Andina - 1 kg",
+   "precio_lista": 2610.53,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 34
+  },
+  {
+   "codigo": "DA-20807",
+   "descripcion": "Hirdófugo en pasta Lago - 20 kg",
+   "precio_lista": 36226.41,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 35
+  },
+  {
+   "codigo": "DA-20828",
+   "descripcion": "Cem. albañilería Loma Andina x 40 kg",
+   "precio_lista": 5649.16,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 36
+  },
+  {
+   "codigo": "DA-20837",
+   "descripcion": "Cemento Pórtland CPC40 Cordillera - bolsa 50 kg",
+   "precio_lista": 8506.67,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 37
+  },
+  {
+   "codigo": "DA-20867",
+   "descripcion": "Cemento Pórtland CPC40 Loma Andina - bolsa 25 kg",
+   "precio_lista": 4324.23,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 38
+  },
+  {
+   "codigo": "DA-20876",
+   "descripcion": "Hidrófugo Andina balde x 20 kilos",
+   "precio_lista": 32847.7,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 39
+  },
+  {
+   "codigo": "DA-20882",
+   "descripcion": "Pastina para juntas beige 5 kg",
+   "precio_lista": 7771.63,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 40
+  },
+  {
+   "codigo": "DA-20885",
+   "descripcion": "Pastina para juntas beige 1 kg",
+   "precio_lista": 1451.63,
+   "hoja": "CEMENTOS Y CALES",
+   "fila": 42
+  },
+  {
+   "codigo": "DA-20024",
+   "descripcion": "Autoperforante hex. 14x2\" con arandela x100",
+   "precio_lista": 13124.37,
+   "hoja": "CHAPAS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20102",
+   "descripcion": "Cumbrera lisa cincalum C25 x 2 mts",
+   "precio_lista": 10550.64,
+   "hoja": "CHAPAS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20147",
+   "descripcion": "Chapa sinusoidal cincalum calibre 27 - largo 4 m",
+   "precio_lista": 13280.81,
+   "hoja": "CHAPAS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20156",
+   "descripcion": "Autoperforante hex. 14x2,5\" con arandela x100",
+   "precio_lista": 19369.08,
+   "hoja": "CHAPAS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20165",
+   "descripcion": "Chapa sinusoidal galvanizada calibre 25 - largo 4 m",
+   "precio_lista": 16637.11,
+   "hoja": "CHAPAS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20189",
+   "descripcion": "Chapa sinusoidal galvanizada calibre 27 - largo 6 m",
+   "precio_lista": 26466.86,
+   "hoja": "CHAPAS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20198",
+   "descripcion": "Autoperforante hex. 14x1,5\" con arandela x100",
+   "precio_lista": 11501.93,
+   "hoja": "CHAPAS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20201",
+   "descripcion": "Chapa acanalada galvanizada C25 x 3.5 mts",
+   "precio_lista": 14689.8,
+   "hoja": "CHAPAS",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20216",
+   "descripcion": "Chapa sinusoidal cincalum calibre 25 - largo 3.5 m",
+   "precio_lista": 11042.96,
+   "hoja": "CHAPAS",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20261",
+   "descripcion": "Autoperforante hex. 14x2,5\" sin arandela x100",
+   "precio_lista": 18035.28,
+   "hoja": "CHAPAS",
+   "fila": 15
+  },
+  {
+   "codigo": "DA-20384",
+   "descripcion": "Chapa sinusoidal cincalum calibre 25 - largo 5 m",
+   "precio_lista": 17202.12,
+   "hoja": "CHAPAS",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20387",
+   "descripcion": "Chapa sinusoidal galvanizada calibre 25 - largo 6 m",
+   "precio_lista": 21067.1,
+   "hoja": "CHAPAS",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20390",
+   "descripcion": "Tornillo autoperforante hexagonal 14 x 1 pulg. con arandela - caja 100 un.",
+   "precio_lista": 9595.88,
+   "hoja": "CHAPAS",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20426",
+   "descripcion": "Tornillo autoperforante hexagonal 14 x 2 pulg. sin arandela - caja 100 un.",
+   "precio_lista": 18468.17,
+   "hoja": "CHAPAS",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20441",
+   "descripcion": "Chapa acanalada cincalum C25 x 4 mts",
+   "precio_lista": 14543.24,
+   "hoja": "CHAPAS",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20483",
+   "descripcion": "Chapa acanalada galvanizada C25 x 5 mts",
+   "precio_lista": 16195.39,
+   "hoja": "CHAPAS",
+   "fila": 22
+  },
+  {
+   "codigo": "DA-20513",
+   "descripcion": "Chapa sinusoidal cincalum calibre 25 - largo 6 m",
+   "precio_lista": 21664.03,
+   "hoja": "CHAPAS",
+   "fila": 23
+  },
+  {
+   "codigo": "DA-20540",
+   "descripcion": "Chapa acaanlada galvanizada C27 x 3,5 mts",
+   "precio_lista": 11479.1,
+   "hoja": "CHAPAS",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20549",
+   "descripcion": "Chapa acanalada cincalum C27 x 6 mts",
+   "precio_lista": 26855.68,
+   "hoja": "CHAPAS",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20561",
+   "descripcion": "Chapa acanalada cincalum C27 x 3,5 mts",
+   "precio_lista": 11624.09,
+   "hoja": "CHAPAS",
+   "fila": 27
+  },
+  {
+   "codigo": "DA-20669",
+   "descripcion": "Chapa acanalada galvanizada C25 x 3 mts",
+   "precio_lista": 12204.81,
+   "hoja": "CHAPAS",
+   "fila": 28
+  },
+  {
+   "codigo": "DA-20687",
+   "descripcion": "Chapa acanalada galvanizada C27 x 5 mts",
+   "precio_lista": 16456.84,
+   "hoja": "CHAPAS",
+   "fila": 29
+  },
+  {
+   "codigo": "DA-20699",
+   "descripcion": "Chapa acanalada galvanizada C27 x 3 mts",
+   "precio_lista": 10321.56,
+   "hoja": "CHAPAS",
+   "fila": 31
+  },
+  {
+   "codigo": "DA-20702",
+   "descripcion": "Tornillo autpoerforante hexagonal 14 x 3 pulg. con arandela - caja 100 un.",
+   "precio_lista": 19288.0,
+   "hoja": "CHAPAS",
+   "fila": 32
+  },
+  {
+   "codigo": "DA-20732",
+   "descripcion": "Chapa acanalada galvanizada C27 x 4,5 mts",
+   "precio_lista": 16777.86,
+   "hoja": "CHAPAS",
+   "fila": 33
+  },
+  {
+   "codigo": "DA-20759",
+   "descripcion": "Chapa sinusoidal cincalum calibre 27 - largo 4.5 m",
+   "precio_lista": 15078.23,
+   "hoja": "CHAPAS",
+   "fila": 34
+  },
+  {
+   "codigo": "DA-20771",
+   "descripcion": "Tornillo autoperforante hexagonal 14 x 3 pulg. sin arandela - caja 100 un.",
+   "precio_lista": 21204.4,
+   "hoja": "CHAPAS",
+   "fila": 35
+  },
+  {
+   "codigo": "DA-20801",
+   "descripcion": "Autoperforante hex. 14x1\" sin arandela x100",
+   "precio_lista": 7390.2,
+   "hoja": "CHAPAS",
+   "fila": 36
+  },
+  {
+   "codigo": "DA-20006",
+   "descripcion": "Cable unipolar 2.5 mm² negro - rollo 100 m",
+   "precio_lista": 61467.89,
+   "hoja": "ELECTRICIDAD",
+   "fila": 4
+  },
+  {
+   "codigo": "DA-20033",
+   "descripcion": "Cable unip. 2.5mm2 marrón x 100 mts",
+   "precio_lista": 69989.08,
+   "hoja": "ELECTRICIDAD",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20108",
+   "descripcion": "Cable unip. 6mm2 rojo x 100 mts",
+   "precio_lista": 139717.12,
+   "hoja": "ELECTRICIDAD",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20153",
+   "descripcion": "Cable unip. 6mm2 marrón x 100 mts",
+   "precio_lista": 138014.87,
+   "hoja": "ELECTRICIDAD",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20171",
+   "descripcion": "Cable unip. 4mm2 mrarón x 100 mts",
+   "precio_lista": 125727.37,
+   "hoja": "ELECTRICIDAD",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20210",
+   "descripcion": "Cable unipolar 1,5 mm² verde - rollo 100 m",
+   "precio_lista": 49062.56,
+   "hoja": "ELECTRICIDAD",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20270",
+   "descripcion": "Cable unip. 4mm2 rojo x 100 mts",
+   "precio_lista": 132126.01,
+   "hoja": "ELECTRICIDAD",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20345",
+   "descripcion": "Cable unipolar 4 mm² verde - rollo 100 m",
+   "precio_lista": 101249.91,
+   "hoja": "ELECTRICIDAD",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20363",
+   "descripcion": "Caño corrugado PVC 1 pulg. - rollo 25 m",
+   "precio_lista": 7576.87,
+   "hoja": "ELECTRICIDAD",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20381",
+   "descripcion": "Cable unipolar 1.5 mm² negro - rollo 100 m",
+   "precio_lista": 45290.21,
+   "hoja": "ELECTRICIDAD",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20402",
+   "descripcion": "Cable unip. 6mm2 azul x 100 mts",
+   "precio_lista": 141309.63,
+   "hoja": "ELECTRICIDAD",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20411",
+   "descripcion": "Corrugado ignífugo 7/8\" x 25 mts",
+   "precio_lista": 9779.0,
+   "hoja": "ELECTRICIDAD",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20450",
+   "descripcion": "Cable unip. 4mm2 negro x 100 mts",
+   "precio_lista": 131141.61,
+   "hoja": "ELECTRICIDAD",
+   "fila": 17
+  },
+  {
+   "codigo": "DA-20564",
+   "descripcion": "Corrugado ignífugo 3/4\" x 25 mts",
+   "precio_lista": 9994.81,
+   "hoja": "ELECTRICIDAD",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20570",
+   "descripcion": "Cable unip. 4mm2 azul x 100 mts",
+   "precio_lista": 108396.55,
+   "hoja": "ELECTRICIDAD",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20738",
+   "descripcion": "Cable unip. 2.5mm2 rojo x 100 mts",
+   "precio_lista": 77373.34,
+   "hoja": "ELECTRICIDAD",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20762",
+   "descripcion": "Cable unip. 2,5mm2 azul x 100 mts",
+   "precio_lista": 68886.35,
+   "hoja": "ELECTRICIDAD",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20783",
+   "descripcion": "Cable unip. 6mm2 verde x 100 mts",
+   "precio_lista": 125980.15,
+   "hoja": "ELECTRICIDAD",
+   "fila": 23
+  },
+  {
+   "codigo": "DA-20786",
+   "descripcion": "Cable unip. 6mm2 negro x 100 mts",
+   "precio_lista": 132938.08,
+   "hoja": "ELECTRICIDAD",
+   "fila": 24
+  },
+  {
+   "codigo": "DA-20846",
+   "descripcion": "Cable unip. 2.5mm2 verde x 100 mts",
+   "precio_lista": 77105.54,
+   "hoja": "ELECTRICIDAD",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20060",
+   "descripcion": "Disco diamantado ø 180 mm",
+   "precio_lista": 4651.74,
+   "hoja": "HERRAMIENTAS",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20231",
+   "descripcion": "Disco de corte metal 115mm",
+   "precio_lista": 2784.28,
+   "hoja": "HERRAMIENTAS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20393",
+   "descripcion": "Pala corazón forjada",
+   "precio_lista": 31787.48,
+   "hoja": "HERRAMIENTAS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20531",
+   "descripcion": "Balde albañil reforzado x 10 L",
+   "precio_lista": 3798.65,
+   "hoja": "HERRAMIENTAS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20654",
+   "descripcion": "Disco de corte metal 180mm",
+   "precio_lista": 4888.64,
+   "hoja": "HERRAMIENTAS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20750",
+   "descripcion": "Disco de diamantado 230mm",
+   "precio_lista": 5642.74,
+   "hoja": "HERRAMIENTAS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20840",
+   "descripcion": "Balde albañil reforzado x 8 L",
+   "precio_lista": 3592.2,
+   "hoja": "HERRAMIENTAS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20855",
+   "descripcion": "Pala punta forjada",
+   "precio_lista": 24121.25,
+   "hoja": "HERRAMIENTAS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20042",
+   "descripcion": "Malla electrosoldada 15x25 cm - alambre 4 mm - paño 2 x 5 m",
+   "precio_lista": 27906.38,
+   "hoja": "HIERROS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20045",
+   "descripcion": "Alambre galvanizado N°14 x 1 kg",
+   "precio_lista": 3293.58,
+   "hoja": "HIERROS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20051",
+   "descripcion": "Clavo P.P. 2.5\" x 1 kg",
+   "precio_lista": 4291.85,
+   "hoja": "HIERROS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20072",
+   "descripcion": "Malla electrosoldada 15x15 cm - alambre 5 mm - paño 2 x 5 m",
+   "precio_lista": 33556.75,
+   "hoja": "HIERROS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20159",
+   "descripcion": "Alambre galvanizado nº 16 - rollo 1 kg",
+   "precio_lista": 3418.43,
+   "hoja": "HIERROS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20162",
+   "descripcion": "Alambre negro recocido nº 16 - rollo 1 kg",
+   "precio_lista": 2880.35,
+   "hoja": "HIERROS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20180",
+   "descripcion": "Alambre galvanizado nº 14 - rollo 25 kg",
+   "precio_lista": 56922.41,
+   "hoja": "HIERROS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20234",
+   "descripcion": "Clavos punta París 2 pulg. - caja 1 kg",
+   "precio_lista": 4714.43,
+   "hoja": "HIERROS",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20237",
+   "descripcion": "Perfil C galvanizado 80x50x15x1.6 - barra 12 m",
+   "precio_lista": 59598.19,
+   "hoja": "HIERROS",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20240",
+   "descripcion": "Hierro construcción nervado 6 mm x 12 m ADN420",
+   "precio_lista": 4982.02,
+   "hoja": "HIERROS",
+   "fila": 15
+  },
+  {
+   "codigo": "DA-20243",
+   "descripcion": "Malla sima 15x15 / 4 mm (2x5)",
+   "precio_lista": 20874.43,
+   "hoja": "HIERROS",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20267",
+   "descripcion": "Perfil C galvanizado 100x50x15x2 - barra 12 m",
+   "precio_lista": 54592.53,
+   "hoja": "HIERROS",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20300",
+   "descripcion": "Perfil estructural C 120 mm esp. 2.5 mm x 12 mts",
+   "precio_lista": 74760.88,
+   "hoja": "HIERROS",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20324",
+   "descripcion": "Perfil C galvanizado 160x50x15x2 - barra 12 m",
+   "precio_lista": 83521.7,
+   "hoja": "HIERROS",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20360",
+   "descripcion": "Barra acero aletado ADN 420 ø 12 mm - 12 mts",
+   "precio_lista": 10590.44,
+   "hoja": "HIERROS",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20372",
+   "descripcion": "Perfil estructural C 80 mm esp. 2,5 mm x 12 mts",
+   "precio_lista": 58718.02,
+   "hoja": "HIERROS",
+   "fila": 22
+  },
+  {
+   "codigo": "DA-20444",
+   "descripcion": "Alambre negro recocido N°14 x 1 kg",
+   "precio_lista": 3413.17,
+   "hoja": "HIERROS",
+   "fila": 23
+  },
+  {
+   "codigo": "DA-20453",
+   "descripcion": "Hierro construcción nervado 16 mm x 12 m ADN420",
+   "precio_lista": 14019.64,
+   "hoja": "HIERROS",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20489",
+   "descripcion": "Clavos punta París 3 pulg. - caja 1 kg",
+   "precio_lista": 4617.1,
+   "hoja": "HIERROS",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20495",
+   "descripcion": "Malla sima 15x25 / 5 mm (2x5)",
+   "precio_lista": 32164.03,
+   "hoja": "HIERROS",
+   "fila": 27
+  },
+  {
+   "codigo": "DA-20501",
+   "descripcion": "Perfil C galvanizado 120x50x15x1,6 - barra 12 m",
+   "precio_lista": 63972.09,
+   "hoja": "HIERROS",
+   "fila": 28
+  },
+  {
+   "codigo": "DA-20534",
+   "descripcion": "Hierro construcción nervado 10 mm x 12 m ADN420",
+   "precio_lista": 10176.79,
+   "hoja": "HIERROS",
+   "fila": 29
+  },
+  {
+   "codigo": "DA-20579",
+   "descripcion": "Clavos punta París 2 pulg. - caja 5 kg",
+   "precio_lista": 13372.35,
+   "hoja": "HIERROS",
+   "fila": 31
+  },
+  {
+   "codigo": "DA-20609",
+   "descripcion": "Perfil C galvanizado 120x50x15x2 - barra 12 m",
+   "precio_lista": 52139.3,
+   "hoja": "HIERROS",
+   "fila": 32
+  },
+  {
+   "codigo": "DA-20618",
+   "descripcion": "Clavo P.P. 4\" x 5 kg",
+   "precio_lista": 14494.56,
+   "hoja": "HIERROS",
+   "fila": 33
+  },
+  {
+   "codigo": "DA-20660",
+   "descripcion": "Clavos punta París 1,5 pulg. - caja 5 kg",
+   "precio_lista": 15975.38,
+   "hoja": "HIERROS",
+   "fila": 34
+  },
+  {
+   "codigo": "DA-20708",
+   "descripcion": "Perfil C galvanizado 100x50x15x1,6 - barra 12 m",
+   "precio_lista": 57680.31,
+   "hoja": "HIERROS",
+   "fila": 35
+  },
+  {
+   "codigo": "DA-20729",
+   "descripcion": "Barra acero aletado ADN 420 ø 8 mm - 12 mts",
+   "precio_lista": 6977.46,
+   "hoja": "HIERROS",
+   "fila": 36
+  },
+  {
+   "codigo": "DA-20774",
+   "descripcion": "Barra acero aletado ADN 420 ø 20 mm - 12 mts",
+   "precio_lista": 18175.33,
+   "hoja": "HIERROS",
+   "fila": 37
+  },
+  {
+   "codigo": "DA-20804",
+   "descripcion": "Clvaos punta París 4 pulg. - caja 1 kg",
+   "precio_lista": 3306.57,
+   "hoja": "HIERROS",
+   "fila": 38
+  },
+  {
+   "codigo": "DA-20810",
+   "descripcion": "Malla electrosoldada 15x25 cm - alambre 6 mm - paño 2 x 5 m",
+   "precio_lista": 32597.1,
+   "hoja": "HIERROS",
+   "fila": 39
+  },
+  {
+   "codigo": "DA-20879",
+   "descripcion": "Alambre galvanizado N°16 x 25 kg",
+   "precio_lista": 60026.13,
+   "hoja": "HIERROS",
+   "fila": 40
+  },
+  {
+   "codigo": "DA-20084",
+   "descripcion": "Bloque de hormigón 15x20x40 cm",
+   "precio_lista": 1140.69,
+   "hoja": "LADRILLOS",
+   "fila": 4
+  },
+  {
+   "codigo": "DA-20138",
+   "descripcion": "ripio ebmolsada x 25 kilos",
+   "precio_lista": 1395.06,
+   "hoja": "LADRILLOS",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20228",
+   "descripcion": "piedra partida - bolsa 25 kg",
+   "precio_lista": 1641.67,
+   "hoja": "LADRILLOS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20303",
+   "descripcion": "arena fina - bolsa 25 kg",
+   "precio_lista": 1628.68,
+   "hoja": "LADRILLOS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20309",
+   "descripcion": "Bolsón ripio x 1 m³",
+   "precio_lista": 43804.25,
+   "hoja": "LADRILLOS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20357",
+   "descripcion": "Vigueta de hormigón pretensado 5 mts",
+   "precio_lista": 24652.64,
+   "hoja": "LADRILLOS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20405",
+   "descripcion": "Vigueta pretensada largo 3,8 m",
+   "precio_lista": 18849.51,
+   "hoja": "LADRILLOS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20543",
+   "descripcion": "Vigueta pretensada largo 4.2 m",
+   "precio_lista": 19618.24,
+   "hoja": "LADRILLOS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20555",
+   "descripcion": "Vigueta pretensada largo 3.4 m",
+   "precio_lista": 20613.03,
+   "hoja": "LADRILLOS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20573",
+   "descripcion": "Bloque de hormigón 10x20x40 cm",
+   "precio_lista": 889.56,
+   "hoja": "LADRILLOS",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20588",
+   "descripcion": "Lad. hueco 8 x 18 x 33 - 9 tubos",
+   "precio_lista": 458.35,
+   "hoja": "LADRILLOS",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20684",
+   "descripcion": "Bloque cemento 20 x 20 x 40 liso",
+   "precio_lista": 1368.11,
+   "hoja": "LADRILLOS",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20717",
+   "descripcion": "arena gruesa - bolsa 25 kg",
+   "precio_lista": 1436.36,
+   "hoja": "LADRILLOS",
+   "fila": 17
+  },
+  {
+   "codigo": "DA-20726",
+   "descripcion": "arena gruesa - bolsón 1 m3",
+   "precio_lista": 49454.44,
+   "hoja": "LADRILLOS",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20741",
+   "descripcion": "Bloque de hormigón 13x20x40 cm",
+   "precio_lista": 1225.19,
+   "hoja": "LADRILLOS",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20765",
+   "descripcion": "arena fina - bolsón 1 m3",
+   "precio_lista": 59678.74,
+   "hoja": "LADRILLOS",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20822",
+   "descripcion": "Lad. hueco 18 x 18 x 33 - 9 tubos",
+   "precio_lista": 928.58,
+   "hoja": "LADRILLOS",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20831",
+   "descripcion": "Vigueta de hormigón pretensado 3 mts",
+   "precio_lista": 19783.28,
+   "hoja": "LADRILLOS",
+   "fila": 23
+  },
+  {
+   "codigo": "DA-20009",
+   "descripcion": "Terciado fenólico 9 mm - placa 1,22 x 2,44 m",
+   "precio_lista": 25365.89,
+   "hoja": "MADERAS",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20048",
+   "descripcion": "Placa OSB estructural 9mm (1.22x2.44)",
+   "precio_lista": 16888.96,
+   "hoja": "MADERAS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20093",
+   "descripcion": "Machimbre de pino 1/2 pulg. - largo 3,66 m",
+   "precio_lista": 4738.37,
+   "hoja": "MADERAS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20150",
+   "descripcion": "Fenólico pino 15mm 1.22x2.44",
+   "precio_lista": 39353.7,
+   "hoja": "MADERAS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20258",
+   "descripcion": "Pino elliotis tirante 2x6 x 3,66 mts",
+   "precio_lista": 11139.58,
+   "hoja": "MADERAS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20291",
+   "descripcion": "Placa OSB estructural 18mm (1.22x2.44)",
+   "precio_lista": 33437.42,
+   "hoja": "MADERAS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20348",
+   "descripcion": "Tirante pino cepillado 2x6 pulg. - largo 3,05 m",
+   "precio_lista": 10406.71,
+   "hoja": "MADERAS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20351",
+   "descripcion": "Tablero OSB 15 mm 1,22 x 2,44",
+   "precio_lista": 33244.64,
+   "hoja": "MADERAS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20375",
+   "descripcion": "Terciado fenólico 12 mm - placa 1,22 x 2,44 m",
+   "precio_lista": 31642.72,
+   "hoja": "MADERAS",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20423",
+   "descripcion": "Fenólico pino 18mm 1.22x2.44",
+   "precio_lista": 51292.81,
+   "hoja": "MADERAS",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20429",
+   "descripcion": "Pino elliotis tirante 2x4 x 4,27 mts",
+   "precio_lista": 11717.1,
+   "hoja": "MADERAS",
+   "fila": 15
+  },
+  {
+   "codigo": "DA-20438",
+   "descripcion": "Tirante pino cepillado 2x4 pulg. - largo 3.66 m",
+   "precio_lista": 11221.98,
+   "hoja": "MADERAS",
+   "fila": 17
+  },
+  {
+   "codigo": "DA-20516",
+   "descripcion": "Pino elliotis tirante 3x6 x 3,05 mts",
+   "precio_lista": 9777.13,
+   "hoja": "MADERAS",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20600",
+   "descripcion": "Puerta placa 70 izquierda con marco",
+   "precio_lista": 81013.37,
+   "hoja": "MADERAS",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20792",
+   "descripcion": "Placa OSB estructural 11mm (1.22x2.44)",
+   "precio_lista": 22026.88,
+   "hoja": "MADERAS",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20798",
+   "descripcion": "Machimbre de pino 1/2 pulg. - largo 3.05 m",
+   "precio_lista": 4414.31,
+   "hoja": "MADERAS",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20819",
+   "descripcion": "Machimbre pino 3/4\" x 3,66 mts",
+   "precio_lista": 4640.31,
+   "hoja": "MADERAS",
+   "fila": 22
+  },
+  {
+   "codigo": "DA-20843",
+   "descripcion": "Pino elliotis tirante 3x6 x 4.27 mts",
+   "precio_lista": 11432.52,
+   "hoja": "MADERAS",
+   "fila": 24
+  },
+  {
+   "codigo": "DA-20849",
+   "descripcion": "Puerta placa 70 derecha con marco",
+   "precio_lista": 108988.68,
+   "hoja": "MADERAS",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20861",
+   "descripcion": "Pino elliotis tirante 2x6 x 4,27 mts",
+   "precio_lista": 14238.46,
+   "hoja": "MADERAS",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20012",
+   "descripcion": "Pintura látex exterior Andina 10 L marfil mate",
+   "precio_lista": 14317.9,
+   "hoja": "PINTURAS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20021",
+   "descripcion": "Látex exterior blanco Andina - balde 20 lts",
+   "precio_lista": 24164.67,
+   "hoja": "PINTURAS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20039",
+   "descripcion": "Pintura látex interior Andina 20 L blanco mate",
+   "precio_lista": 23433.15,
+   "hoja": "PINTURAS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20054",
+   "descripcion": "Enduido plástico exterior 1 kg",
+   "precio_lista": 2170.3,
+   "hoja": "PINTURAS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20057",
+   "descripcion": "Látex exterior blanco Andina - balde 10 lts",
+   "precio_lista": 13246.16,
+   "hoja": "PINTURAS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20096",
+   "descripcion": "Imperm. tehcos membrana en pasta rojo 5 kg",
+   "precio_lista": 7119.82,
+   "hoja": "PINTURAS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20111",
+   "descripcion": "Fijador sellador al agua 4 lts",
+   "precio_lista": 17092.09,
+   "hoja": "PINTURAS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20123",
+   "descripcion": "Enduido interior listo para usar x 4 kilos",
+   "precio_lista": 7640.14,
+   "hoja": "PINTURAS",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20129",
+   "descripcion": "Impregnante madera nogal x 1 litros",
+   "precio_lista": 12186.07,
+   "hoja": "PINTURAS",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20177",
+   "descripcion": "Enduido plástico interior 10 kg",
+   "precio_lista": 25723.42,
+   "hoja": "PINTURAS",
+   "fila": 15
+  },
+  {
+   "codigo": "DA-20183",
+   "descripcion": "Espuma PU aerosol x 500ml",
+   "precio_lista": 14559.38,
+   "hoja": "PINTURAS",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20219",
+   "descripcion": "Impregnante madera natural x 1 litros",
+   "precio_lista": 10824.4,
+   "hoja": "PINTURAS",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20225",
+   "descripcion": "Imperm. techos membrana en pasta blanco 20 kg",
+   "precio_lista": 27035.67,
+   "hoja": "PINTURAS",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20246",
+   "descripcion": "Pintura látex exterior Andina 4 L blanco mate",
+   "precio_lista": 6428.42,
+   "hoja": "PINTURAS",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20249",
+   "descripcion": "Enduido plástico exterior 4 kg",
+   "precio_lista": 8060.6,
+   "hoja": "PINTURAS",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20252",
+   "descripcion": "Pintura látex interior Lago 4 L marfil mate",
+   "precio_lista": 7376.06,
+   "hoja": "PINTURAS",
+   "fila": 22
+  },
+  {
+   "codigo": "DA-20279",
+   "descripcion": "Silicona acética blanco 280ml",
+   "precio_lista": 6149.11,
+   "hoja": "PINTURAS",
+   "fila": 23
+  },
+  {
+   "codigo": "DA-20288",
+   "descripcion": "Látex interior blanco Lago - balde 10 lts",
+   "precio_lista": 13535.33,
+   "hoja": "PINTURAS",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20297",
+   "descripcion": "Enduido interior listo para usar x 1 kilos",
+   "precio_lista": 2546.44,
+   "hoja": "PINTURAS",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20333",
+   "descripcion": "Pintura látex interior Andina 10 L marfil mate",
+   "precio_lista": 13594.9,
+   "hoja": "PINTURAS",
+   "fila": 27
+  },
+  {
+   "codigo": "DA-20336",
+   "descripcion": "Pintura látex exterior Lago 20 L marifl mate",
+   "precio_lista": 26297.35,
+   "hoja": "PINTURAS",
+   "fila": 28
+  },
+  {
+   "codigo": "DA-20354",
+   "descripcion": "Pintura látex exterior Lago 10 L blanco mate",
+   "precio_lista": 14620.23,
+   "hoja": "PINTURAS",
+   "fila": 29
+  },
+  {
+   "codigo": "DA-20378",
+   "descripcion": "Esmalte sintético brillante negro 1 lt",
+   "precio_lista": 8084.97,
+   "hoja": "PINTURAS",
+   "fila": 31
+  },
+  {
+   "codigo": "DA-20399",
+   "descripcion": "Pintura látex exterior Lago 20 L blanco mate",
+   "precio_lista": 21409.63,
+   "hoja": "PINTURAS",
+   "fila": 32
+  },
+  {
+   "codigo": "DA-20408",
+   "descripcion": "Látex interior blanco Lago - balde 20 lts",
+   "precio_lista": 23131.88,
+   "hoja": "PINTURAS",
+   "fila": 33
+  },
+  {
+   "codigo": "DA-20417",
+   "descripcion": "Pintura látex exterior Lago 4 L marfil mate",
+   "precio_lista": 5347.77,
+   "hoja": "PINTURAS",
+   "fila": 34
+  },
+  {
+   "codigo": "DA-20420",
+   "descripcion": "Sellador fijador concentrado x 10 L",
+   "precio_lista": 34985.4,
+   "hoja": "PINTURAS",
+   "fila": 35
+  },
+  {
+   "codigo": "DA-20435",
+   "descripcion": "Pintura látex interior Lago 10 L marfil mate",
+   "precio_lista": 16204.17,
+   "hoja": "PINTURAS",
+   "fila": 36
+  },
+  {
+   "codigo": "DA-20477",
+   "descripcion": "Silicona acética negro 280ml",
+   "precio_lista": 5610.21,
+   "hoja": "PINTURAS",
+   "fila": 37
+  },
+  {
+   "codigo": "DA-20486",
+   "descripcion": "Protector para madera cedro 4 lt",
+   "precio_lista": 39859.98,
+   "hoja": "PINTURAS",
+   "fila": 38
+  },
+  {
+   "codigo": "DA-20504",
+   "descripcion": "Espuma de poliuretano expandible 750 ml",
+   "precio_lista": 21383.55,
+   "hoja": "PINTURAS",
+   "fila": 39
+  },
+  {
+   "codigo": "DA-20510",
+   "descripcion": "Silicona neutra negro 280ml",
+   "precio_lista": 6979.61,
+   "hoja": "PINTURAS",
+   "fila": 40
+  },
+  {
+   "codigo": "DA-20519",
+   "descripcion": "Esmalte sintético brillante gris 1 lt",
+   "precio_lista": 10628.54,
+   "hoja": "PINTURAS",
+   "fila": 41
+  },
+  {
+   "codigo": "DA-20582",
+   "descripcion": "Membrana líquida impermeabilizante rojo - balde 20 kg",
+   "precio_lista": 21901.54,
+   "hoja": "PINTURAS",
+   "fila": 43
+  },
+  {
+   "codigo": "DA-20585",
+   "descripcion": "Látex interior blanco Andina - balde 10 lts",
+   "precio_lista": 12645.49,
+   "hoja": "PINTURAS",
+   "fila": 45
+  },
+  {
+   "codigo": "DA-20606",
+   "descripcion": "Proetctor para madera cedro 1 lt",
+   "precio_lista": 10329.35,
+   "hoja": "PINTURAS",
+   "fila": 46
+  },
+  {
+   "codigo": "DA-20621",
+   "descripcion": "Esm. sint. gris x 4 litros",
+   "precio_lista": 27024.42,
+   "hoja": "PINTURAS",
+   "fila": 47
+  },
+  {
+   "codigo": "DA-20645",
+   "descripcion": "Protector para madera nogal 4 lt",
+   "precio_lista": 37807.98,
+   "hoja": "PINTURAS",
+   "fila": 48
+  },
+  {
+   "codigo": "DA-20648",
+   "descripcion": "Látex exterior marfil Andina - balde 20 lts",
+   "precio_lista": 27604.27,
+   "hoja": "PINTURAS",
+   "fila": 49
+  },
+  {
+   "codigo": "DA-20657",
+   "descripcion": "Impregnante madera natural x 4 litros",
+   "precio_lista": 40344.03,
+   "hoja": "PINTURAS",
+   "fila": 50
+  },
+  {
+   "codigo": "DA-20678",
+   "descripcion": "Esm. sint. negro x 4 litros",
+   "precio_lista": 30304.0,
+   "hoja": "PINTURAS",
+   "fila": 51
+  },
+  {
+   "codigo": "DA-20705",
+   "descripcion": "Pintura látex interior Andina 4 L marfil mate",
+   "precio_lista": 5311.96,
+   "hoja": "PINTURAS",
+   "fila": 52
+  },
+  {
+   "codigo": "DA-20711",
+   "descripcion": "Esm. sint. blanco x 4 litros",
+   "precio_lista": 29833.44,
+   "hoja": "PINTURAS",
+   "fila": 53
+  },
+  {
+   "codigo": "DA-20723",
+   "descripcion": "Pintura látex interior Andina 4 L blanco mate",
+   "precio_lista": 7125.76,
+   "hoja": "PINTURAS",
+   "fila": 54
+  },
+  {
+   "codigo": "DA-20747",
+   "descripcion": "Impregnante mdaera roble x 1 litros",
+   "precio_lista": 11922.07,
+   "hoja": "PINTURAS",
+   "fila": 56
+  },
+  {
+   "codigo": "DA-20756",
+   "descripcion": "Esm. sint. blanco x 1 litros",
+   "precio_lista": 7794.84,
+   "hoja": "PINTURAS",
+   "fila": 57
+  },
+  {
+   "codigo": "DA-20780",
+   "descripcion": "Impregnante madera roble x 4 litros",
+   "precio_lista": 43132.74,
+   "hoja": "PINTURAS",
+   "fila": 58
+  },
+  {
+   "codigo": "DA-20852",
+   "descripcion": "Fijador sellador al agua 1 lts",
+   "precio_lista": 4084.42,
+   "hoja": "PINTURAS",
+   "fila": 59
+  },
+  {
+   "codigo": "DA-20858",
+   "descripcion": "Imperm. techos membrana en pasta rojo 10 kg",
+   "precio_lista": 11970.21,
+   "hoja": "PINTURAS",
+   "fila": 60
+  },
+  {
+   "codigo": "DA-20003",
+   "descripcion": "Piso cerámico gris 30x30 1ra",
+   "precio_lista": 11254.66,
+   "hoja": "PISOS",
+   "fila": 4
+  },
+  {
+   "codigo": "DA-20090",
+   "descripcion": "Piso cerámico marrón 45x45 2da",
+   "precio_lista": 11856.85,
+   "hoja": "PISOS",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20144",
+   "descripcion": "Piso cerámico gris 45x45 1ra",
+   "precio_lista": 9979.35,
+   "hoja": "PISOS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20174",
+   "descripcion": "Porcelanato pulido beige 60x60 cm - caja",
+   "precio_lista": 23149.16,
+   "hoja": "PISOS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20186",
+   "descripcion": "Porcelanato mate gris 80x80 cm - caja",
+   "precio_lista": 27459.38,
+   "hoja": "PISOS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20327",
+   "descripcion": "Cerámico piso 60x60 cm marrón - 1ra calidad - caja",
+   "precio_lista": 9413.17,
+   "hoja": "PISOS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20366",
+   "descripcion": "Piso cerámico beige 30x30 1ra",
+   "precio_lista": 10932.24,
+   "hoja": "PISOS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20528",
+   "descripcion": "Porcellanato 60x60 gris mate rectificado",
+   "precio_lista": 24502.25,
+   "hoja": "PISOS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20567",
+   "descripcion": "Piso ceármico marrón 30x30 2da",
+   "precio_lista": 9818.89,
+   "hoja": "PISOS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20603",
+   "descripcion": "Porcelanato pulido beige 80x80 cm - caja",
+   "precio_lista": 24129.53,
+   "hoja": "PISOS",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20612",
+   "descripcion": "Cerámico piso 45x45 cm beige - 2da calidad - caja",
+   "precio_lista": 11480.11,
+   "hoja": "PISOS",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20666",
+   "descripcion": "Piso cerámico gris 60x60 1ra",
+   "precio_lista": 8852.14,
+   "hoja": "PISOS",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20714",
+   "descripcion": "Porcellanato 80x80 gris pulido rectificado",
+   "precio_lista": 24890.07,
+   "hoja": "PISOS",
+   "fila": 17
+  },
+  {
+   "codigo": "DA-20735",
+   "descripcion": "Porcelanato mate beige 60x60 cm - caja",
+   "precio_lista": 26423.59,
+   "hoja": "PISOS",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20744",
+   "descripcion": "Piso cerámico gris 30x30 2da",
+   "precio_lista": 8711.7,
+   "hoja": "PISOS",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20768",
+   "descripcion": "Piso cerámico marrón 45x45 1ra",
+   "precio_lista": 8825.11,
+   "hoja": "PISOS",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20795",
+   "descripcion": "Porcellanato 60x60 gris pulido rectificado",
+   "precio_lista": 25869.4,
+   "hoja": "PISOS",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20813",
+   "descripcion": "Cerámico piso 30x30 cm beige - 2da calidad - caja",
+   "precio_lista": 12590.65,
+   "hoja": "PISOS",
+   "fila": 23
+  },
+  {
+   "codigo": "DA-20816",
+   "descripcion": "Piso cerámico beige 60x60 2da",
+   "precio_lista": 14385.0,
+   "hoja": "PISOS",
+   "fila": 24
+  },
+  {
+   "codigo": "DA-20825",
+   "descripcion": "Porcelanato mate beige 80x80 cm - caja",
+   "precio_lista": 31312.84,
+   "hoja": "PISOS",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20873",
+   "descripcion": "Cerámico piso 60x60 cm marrón - 2da calidad - caja",
+   "precio_lista": 11688.53,
+   "hoja": "PISOS",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20027",
+   "descripcion": "Codo PPR termofusión 20 mm a 90°",
+   "precio_lista": 566.94,
+   "hoja": "SANITARIOS",
+   "fila": 5
+  },
+  {
+   "codigo": "DA-20063",
+   "descripcion": "Tubo termofusión 20mm x 4 mts",
+   "precio_lista": 7165.79,
+   "hoja": "SANITARIOS",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20069",
+   "descripcion": "Caño epoxi para gas 1 pulg. - tira 6,40 m",
+   "precio_lista": 38840.81,
+   "hoja": "SANITARIOS",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20099",
+   "descripcion": "Tubo PVC desagüe 40 mm x 4 mts liviano",
+   "precio_lista": 7013.18,
+   "hoja": "SANITARIOS",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20114",
+   "descripcion": "Caño PVC cloacal liviano ø160 mm - tira 4 m",
+   "precio_lista": 22415.56,
+   "hoja": "SANITARIOS",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20120",
+   "descripcion": "Codo gas epoxi 90 grados 3/4\"",
+   "precio_lista": 2805.22,
+   "hoja": "SANITARIOS",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20126",
+   "descripcion": "Tanque polietileno bicapa 1100 lts",
+   "precio_lista": 209797.65,
+   "hoja": "SANITARIOS",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20132",
+   "descripcion": "Codo 45 grados PVC ø 50",
+   "precio_lista": 808.2,
+   "hoja": "SANITARIOS",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20135",
+   "descripcion": "Tanque polietileno tricapa 500 lts",
+   "precio_lista": 125601.74,
+   "hoja": "SANITARIOS",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20264",
+   "descripcion": "Codo 90 grados termofusión ø 25",
+   "precio_lista": 713.68,
+   "hoja": "SANITARIOS",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20273",
+   "descripcion": "Tubo PVC desagüe 40 mm x 4 mts reforzado",
+   "precio_lista": 7395.43,
+   "hoja": "SANITARIOS",
+   "fila": 15
+  },
+  {
+   "codigo": "DA-20312",
+   "descripcion": "Tubo PVC desagüe 50 mm x 4 mts liviano",
+   "precio_lista": 8060.44,
+   "hoja": "SANITARIOS",
+   "fila": 17
+  },
+  {
+   "codigo": "DA-20318",
+   "descripcion": "Codo 45 grados PVC ø 40",
+   "precio_lista": 731.45,
+   "hoja": "SANITARIOS",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20330",
+   "descripcion": "Caño epoxi para gas 1/2 pulg. - tira 6,40 m",
+   "precio_lista": 34238.79,
+   "hoja": "SANITARIOS",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20369",
+   "descripcion": "Tanque polietileno bicapa 500 lts",
+   "precio_lista": 116423.09,
+   "hoja": "SANITARIOS",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20396",
+   "descripcion": "Caño gas revestido epoxi 3/4\" x 6.40 mts",
+   "precio_lista": 38217.06,
+   "hoja": "SANITARIOS",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20414",
+   "descripcion": "Tanque polietileno bicapa 1000 lts",
+   "precio_lista": 232050.03,
+   "hoja": "SANITARIOS",
+   "fila": 22
+  },
+  {
+   "codigo": "DA-20456",
+   "descripcion": "Caño PVC cloacal reforzado ø63 mm - tira 4 m",
+   "precio_lista": 10669.83,
+   "hoja": "SANITARIOS",
+   "fila": 24
+  },
+  {
+   "codigo": "DA-20471",
+   "descripcion": "Codo PPR termofusión 32 mm a 90°",
+   "precio_lista": 895.88,
+   "hoja": "SANITARIOS",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20492",
+   "descripcion": "Codo PVC cloacal 50 mm a 90°",
+   "precio_lista": 1015.87,
+   "hoja": "SANITARIOS",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20558",
+   "descripcion": "Codo epoxi para gas 1/2 pulg. a 90°",
+   "precio_lista": 2425.32,
+   "hoja": "SANITARIOS",
+   "fila": 27
+  },
+  {
+   "codigo": "DA-20576",
+   "descripcion": "Tanque polietileno tricapa 750 lts",
+   "precio_lista": 141030.29,
+   "hoja": "SANITARIOS",
+   "fila": 28
+  },
+  {
+   "codigo": "DA-20594",
+   "descripcion": "Codo PVC cloacal 40 mm a 90°",
+   "precio_lista": 626.39,
+   "hoja": "SANITARIOS",
+   "fila": 30
+  },
+  {
+   "codigo": "DA-20597",
+   "descripcion": "Codo PVC cloacal 63 mm a 45°",
+   "precio_lista": 1151.22,
+   "hoja": "SANITARIOS",
+   "fila": 31
+  },
+  {
+   "codigo": "DA-20630",
+   "descripcion": "Tubo PVC desagüe 63 mm x 4 mts liviano",
+   "precio_lista": 9238.69,
+   "hoja": "SANITARIOS",
+   "fila": 32
+  },
+  {
+   "codigo": "DA-20633",
+   "descripcion": "Codo PVC cloacal 63 mm a 90°",
+   "precio_lista": 1092.95,
+   "hoja": "SANITARIOS",
+   "fila": 33
+  },
+  {
+   "codigo": "DA-20651",
+   "descripcion": "Tubo PVC desagüe 110 mm x 4 mts reforzado",
+   "precio_lista": 16066.38,
+   "hoja": "SANITARIOS",
+   "fila": 34
+  },
+  {
+   "codigo": "DA-20663",
+   "descripcion": "Caño PVC cloacal liviano ø110 mm - tira 4 m",
+   "precio_lista": 13541.72,
+   "hoja": "SANITARIOS",
+   "fila": 35
+  },
+  {
+   "codigo": "DA-20672",
+   "descripcion": "Tanque polietileno tricapa 1100 lts",
+   "precio_lista": 265851.9,
+   "hoja": "SANITARIOS",
+   "fila": 36
+  },
+  {
+   "codigo": "DA-20834",
+   "descripcion": "Tanque polietileno bicapa 750 lts",
+   "precio_lista": 141650.04,
+   "hoja": "SANITARIOS",
+   "fila": 37
+  },
+  {
+   "codigo": "DA-20864",
+   "descripcion": "Tanque polietileno tricapa 1000 lts",
+   "precio_lista": 191589.02,
+   "hoja": "SANITARIOS",
+   "fila": 38
+  },
+  {
+   "codigo": "DA-20015",
+   "descripcion": "montante galvanizado 70 mm - tira 2,60 m",
+   "precio_lista": 8507.31,
+   "hoja": "SECO",
+   "fila": 6
+  },
+  {
+   "codigo": "DA-20030",
+   "descripcion": "Tornillo drywall T1 punta mecha - caja x 500 un.",
+   "precio_lista": 13932.88,
+   "hoja": "SECO",
+   "fila": 7
+  },
+  {
+   "codigo": "DA-20075",
+   "descripcion": "Tornillo drywall T2 punta aguja - caja x 100 un.",
+   "precio_lista": 3422.25,
+   "hoja": "SECO",
+   "fila": 8
+  },
+  {
+   "codigo": "DA-20078",
+   "descripcion": "Cinta malla juntas x 23 mts",
+   "precio_lista": 1683.22,
+   "hoja": "SECO",
+   "fila": 9
+  },
+  {
+   "codigo": "DA-20081",
+   "descripcion": "Placa de yeso resistente a la humedad 12,5 mm - 1,20 x 2,40 m",
+   "precio_lista": 18891.9,
+   "hoja": "SECO",
+   "fila": 10
+  },
+  {
+   "codigo": "DA-20168",
+   "descripcion": "Perfil montante 35mm x 2.60 mts",
+   "precio_lista": 4072.33,
+   "hoja": "SECO",
+   "fila": 11
+  },
+  {
+   "codigo": "DA-20315",
+   "descripcion": "Cinta papel juntas x 150 mts",
+   "precio_lista": 9597.39,
+   "hoja": "SECO",
+   "fila": 12
+  },
+  {
+   "codigo": "DA-20342",
+   "descripcion": "Tornillo drywall T2 punta mecha - caja x 500 un.",
+   "precio_lista": 12975.18,
+   "hoja": "SECO",
+   "fila": 13
+  },
+  {
+   "codigo": "DA-20432",
+   "descripcion": "Tornillo drywall T1 punta aguja - caja x 100 un.",
+   "precio_lista": 3797.21,
+   "hoja": "SECO",
+   "fila": 14
+  },
+  {
+   "codigo": "DA-20447",
+   "descripcion": "Tornillo drywall T1 punta aguja - caja x 500 un.",
+   "precio_lista": 13454.25,
+   "hoja": "SECO",
+   "fila": 15
+  },
+  {
+   "codigo": "DA-20459",
+   "descripcion": "Masilla placa yeso x 32 kilos",
+   "precio_lista": 27487.07,
+   "hoja": "SECO",
+   "fila": 16
+  },
+  {
+   "codigo": "DA-20465",
+   "descripcion": "Tornillo dyrwall T1 punta mecha - caja x 100 un.",
+   "precio_lista": 3683.42,
+   "hoja": "SECO",
+   "fila": 18
+  },
+  {
+   "codigo": "DA-20474",
+   "descripcion": "Cinta papel juntas x 75 mts",
+   "precio_lista": 6271.47,
+   "hoja": "SECO",
+   "fila": 19
+  },
+  {
+   "codigo": "DA-20525",
+   "descripcion": "Cinta malla juntas x 75 mts",
+   "precio_lista": 5957.95,
+   "hoja": "SECO",
+   "fila": 20
+  },
+  {
+   "codigo": "DA-20624",
+   "descripcion": "Placa cartón-yeso estándar esp. 9,5mm 120x240 cm",
+   "precio_lista": 16732.18,
+   "hoja": "SECO",
+   "fila": 21
+  },
+  {
+   "codigo": "DA-20639",
+   "descripcion": "Placa cartón-yeso resistente a la humedad esp. 9,5mm 120x240 cm",
+   "precio_lista": 14235.21,
+   "hoja": "SECO",
+   "fila": 22
+  },
+  {
+   "codigo": "DA-20681",
+   "descripcion": "Masilla placa yeso x 15 kilos",
+   "precio_lista": 11633.98,
+   "hoja": "SECO",
+   "fila": 23
+  },
+  {
+   "codigo": "DA-20696",
+   "descripcion": "Masilla para placas de yeso lista para usar - balde 7 kg",
+   "precio_lista": 8695.19,
+   "hoja": "SECO",
+   "fila": 25
+  },
+  {
+   "codigo": "DA-20720",
+   "descripcion": "Cinta papel juntas x 23 mts",
+   "precio_lista": 2313.87,
+   "hoja": "SECO",
+   "fila": 26
+  },
+  {
+   "codigo": "DA-20753",
+   "descripcion": "solera galvanizado 35 mm - tira 2,60 m",
+   "precio_lista": 3440.33,
+   "hoja": "SECO",
+   "fila": 27
+  }
+ ],
+ "lectura": {
+  "hojas_ignoradas": [
+   "PORTADA",
+   "FLETES"
+  ],
+  "filas_descartadas": 30
+ },
+ "bonificaciones": {
+  "DA-20003": 15.0,
+  "DA-20009": 10.0,
+  "DA-20012": 10.0,
+  "DA-20015": 5.0,
+  "DA-20027": 15.0,
+  "DA-20030": 20.0,
+  "DA-20033": 10.0,
+  "DA-20039": 5.0,
+  "DA-20042": 15.0,
+  "DA-20051": 15.0,
+  "DA-20057": 10.0,
+  "DA-20066": 10.0,
+  "DA-20069": 15.0,
+  "DA-20072": 10.0,
+  "DA-20075": 10.0,
+  "DA-20081": 20.0,
+  "DA-20084": 10.0,
+  "DA-20090": 15.0,
+  "DA-20096": 10.0,
+  "DA-20099": 10.0,
+  "DA-20102": 20.0,
+  "DA-20105": 10.0,
+  "DA-20111": 20.0,
+  "DA-20114": 10.0,
+  "DA-20120": 10.0,
+  "DA-20129": 15.0,
+  "DA-20135": 15.0,
+  "DA-20138": 10.0,
+  "DA-20144": 5.0,
+  "DA-20150": 5.0,
+  "DA-20153": 5.0,
+  "DA-20156": 10.0,
+  "DA-20159": 10.0,
+  "DA-20165": 15.0,
+  "DA-20168": 5.0,
+  "DA-20171": 10.0,
+  "DA-20174": 10.0,
+  "DA-20177": 20.0,
+  "DA-20183": 20.0,
+  "DA-20186": 10.0,
+  "DA-20189": 20.0,
+  "DA-20192": 5.0,
+  "DA-20195": 10.0,
+  "DA-20198": 5.0,
+  "DA-20201": 20.0,
+  "DA-20207": 20.0,
+  "DA-20210": 20.0,
+  "DA-20213": 10.0,
+  "DA-20219": 10.0,
+  "DA-20222": 10.0,
+  "DA-20225": 10.0,
+  "DA-20228": 20.0,
+  "DA-20234": 20.0,
+  "DA-20237": 20.0,
+  "DA-20246": 5.0,
+  "DA-20252": 20.0,
+  "DA-20255": 10.0,
+  "DA-20264": 15.0,
+  "DA-20267": 10.0,
+  "DA-20270": 20.0,
+  "DA-20273": 10.0,
+  "DA-20276": 10.0,
+  "DA-20282": 10.0,
+  "DA-20285": 5.0,
+  "DA-20291": 10.0,
+  "DA-20300": 20.0,
+  "DA-20303": 20.0,
+  "DA-20312": 10.0,
+  "DA-20315": 5.0,
+  "DA-20318": 10.0,
+  "DA-20321": 5.0,
+  "DA-20333": 15.0,
+  "DA-20336": 10.0,
+  "DA-20339": 10.0,
+  "DA-20342": 15.0,
+  "DA-20348": 15.0,
+  "DA-20351": 10.0,
+  "DA-20354": 20.0,
+  "DA-20360": 5.0,
+  "DA-20366": 15.0,
+  "DA-20369": 5.0,
+  "DA-20372": 20.0,
+  "DA-20381": 5.0,
+  "DA-20387": 10.0,
+  "DA-20390": 15.0,
+  "DA-20393": 20.0,
+  "DA-20396": 10.0,
+  "DA-20405": 10.0,
+  "DA-20411": 10.0,
+  "DA-20414": 10.0,
+  "DA-20423": 10.0,
+  "DA-20426": 20.0,
+  "DA-20432": 20.0,
+  "DA-20435": 10.0,
+  "DA-20444": 5.0,
+  "DA-20447": 20.0,
+  "DA-20450": 20.0,
+  "DA-20453": 5.0,
+  "DA-20456": 15.0,
+  "DA-20459": 15.0,
+  "DA-20462": 10.0,
+  "DA-20465": 15.0,
+  "DA-20471": 10.0,
+  "DA-20474": 20.0,
+  "DA-20477": 5.0,
+  "DA-20480": 5.0,
+  "DA-20483": 10.0,
+  "DA-20486": 20.0,
+  "DA-20489": 20.0,
+  "DA-20492": 10.0,
+  "DA-20495": 10.0,
+  "DA-20498": 15.0,
+  "DA-20501": 20.0,
+  "DA-20504": 20.0,
+  "DA-20510": 10.0,
+  "DA-20513": 10.0,
+  "DA-20516": 15.0,
+  "DA-20519": 10.0,
+  "DA-20525": 10.0,
+  "DA-20528": 5.0,
+  "DA-20534": 5.0,
+  "DA-20537": 20.0,
+  "DA-20540": 10.0,
+  "DA-20546": 5.0,
+  "DA-20549": 20.0,
+  "DA-20555": 20.0,
+  "DA-20564": 15.0,
+  "DA-20573": 5.0,
+  "DA-20585": 5.0,
+  "DA-20588": 5.0,
+  "DA-20597": 10.0,
+  "DA-20603": 10.0,
+  "DA-20606": 5.0,
+  "DA-20612": 15.0,
+  "DA-20615": 10.0,
+  "DA-20624": 20.0,
+  "DA-20627": 20.0,
+  "DA-20630": 10.0,
+  "DA-20633": 5.0,
+  "DA-20639": 5.0,
+  "DA-20645": 15.0,
+  "DA-20651": 5.0,
+  "DA-20654": 10.0,
+  "DA-20657": 10.0,
+  "DA-20669": 10.0,
+  "DA-20672": 15.0,
+  "DA-20675": 10.0,
+  "DA-20678": 15.0,
+  "DA-20687": 5.0,
+  "DA-20690": 20.0,
+  "DA-20693": 20.0,
+  "DA-20696": 20.0,
+  "DA-20708": 10.0,
+  "DA-20711": 5.0,
+  "DA-20714": 20.0,
+  "DA-20717": 10.0,
+  "DA-20720": 20.0,
+  "DA-20723": 20.0,
+  "DA-20732": 10.0,
+  "DA-20735": 15.0,
+  "DA-20738": 15.0,
+  "DA-20741": 15.0,
+  "DA-20747": 15.0,
+  "DA-20756": 5.0,
+  "DA-20759": 5.0,
+  "DA-20765": 20.0,
+  "DA-20774": 10.0,
+  "DA-20780": 15.0,
+  "DA-20795": 10.0,
+  "DA-20807": 10.0,
+  "DA-20813": 10.0,
+  "DA-20816": 20.0,
+  "DA-20819": 5.0,
+  "DA-20825": 20.0,
+  "DA-20831": 20.0,
+  "DA-20837": 5.0,
+  "DA-20840": 5.0,
+  "DA-20846": 15.0,
+  "DA-20849": 10.0,
+  "DA-20867": 5.0,
+  "DA-20870": 10.0,
+  "DA-20873": 20.0,
+  "DA-20876": 5.0,
+  "DA-20882": 15.0
+ },
+ "fletes": [
+  {
+   "zona": "Cordillera",
+   "tarifa_tn": 85000.0
+  },
+  {
+   "zona": "Valle",
+   "tarifa_tn": 62000.0
+  }
+ ],
+ "verdad": {
+  "10007": "DA-20282",
+  "10014": "DA-20690",
+  "10021": "",
+  "10028": "",
+  "10035": "DA-20552",
+  "10042": "DA-20045",
+  "10049": "DA-20180",
+  "10056": "DA-20159",
+  "10063": "DA-20444",
+  "10070": "",
+  "10077": "DA-20303",
+  "10084": "DA-20717",
+  "10091": "DA-20726",
+  "10098": "DA-20531",
+  "10105": "DA-20840",
+  "10112": "DA-20573",
+  "10119": "DA-20084",
+  "10126": "DA-20684",
+  "10133": "DA-20741",
+  "10140": "",
+  "10147": "",
+  "10154": "",
+  "10161": "DA-20210",
+  "10168": "DA-20762",
+  "10175": "DA-20033",
+  "10182": "DA-20006",
+  "10189": "DA-20738",
+  "10196": "DA-20846",
+  "10203": "DA-20570",
+  "10210": "DA-20171",
+  "10217": "DA-20450",
+  "10224": "DA-20270",
+  "10231": "DA-20345",
+  "10238": "DA-20402",
+  "10245": "DA-20153",
+  "10252": "DA-20786",
+  "10259": "DA-20108",
+  "10266": "DA-20783",
+  "10273": "",
+  "10280": "DA-20276",
+  "10287": "DA-20507",
+  "10294": "DA-20564",
+  "10301": "DA-20411",
+  "10308": "DA-20069",
+  "10315": "DA-20330",
+  "10322": "DA-20396",
+  "10329": "DA-20663",
+  "10336": "DA-20651",
+  "10343": "DA-20114",
+  "10350": "",
+  "10357": "DA-20099",
+  "10364": "DA-20273",
+  "10371": "DA-20312",
+  "10378": "DA-20630",
+  "10385": "DA-20456",
+  "10392": "DA-20063",
+  "10399": "DA-20828",
+  "10406": "DA-20468",
+  "10413": "DA-20837",
+  "10420": "DA-20867",
+  "10427": "DA-20522",
+  "10434": "DA-20204",
+  "10441": "DA-20117",
+  "10448": "DA-20366",
+  "10455": "DA-20813",
+  "10462": "DA-20744",
+  "10469": "",
+  "10476": "DA-20567",
+  "10483": "DA-20612",
+  "10490": "DA-20144",
+  "10497": "",
+  "10504": "DA-20768",
+  "10511": "DA-20090",
+  "10518": "DA-20816",
+  "10525": "DA-20666",
+  "10532": "",
+  "10539": "DA-20327",
+  "10546": "DA-20873",
+  "10553": "DA-20216",
+  "10560": "DA-20441",
+  "10567": "DA-20384",
+  "10574": "DA-20513",
+  "10581": "DA-20561",
+  "10588": "DA-20759",
+  "10595": "DA-20147",
+  "10602": "DA-20549",
+  "10609": "DA-20669",
+  "10616": "DA-20387",
+  "10623": "DA-20540",
+  "10630": "DA-20699",
+  "10637": "DA-20732",
+  "10644": "",
+  "10651": "DA-20687",
+  "10658": "DA-20483",
+  "10665": "DA-20189",
+  "10672": "DA-20078",
+  "10679": "DA-20525",
+  "10686": "DA-20315",
+  "10693": "DA-20720",
+  "10700": "",
+  "10707": "DA-20660",
+  "10714": "DA-20234",
+  "10721": "DA-20579",
+  "10728": "DA-20051",
+  "10735": "DA-20489",
+  "10742": "",
+  "10749": "DA-20804",
+  "10756": "DA-20618",
+  "10763": "DA-20558",
+  "10770": "",
+  "10777": "DA-20318",
+  "10784": "DA-20594",
+  "10791": "DA-20132",
+  "10798": "DA-20492",
+  "10805": "DA-20597",
+  "10812": "DA-20633",
+  "10819": "DA-20027",
+  "10826": "DA-20264",
+  "10833": "DA-20471",
+  "10840": "DA-20102",
+  "10847": "",
+  "10854": "",
+  "10861": "",
+  "10868": "DA-20231",
+  "10875": "DA-20654",
+  "10882": "",
+  "10889": "DA-20060",
+  "10896": "",
+  "10903": "DA-20054",
+  "10910": "DA-20249",
+  "10917": "DA-20177",
+  "10924": "DA-20297",
+  "10931": "DA-20123",
+  "10938": "DA-20519",
+  "10945": "DA-20678",
+  "10952": "DA-20711",
+  "10959": "DA-20756",
+  "10966": "DA-20621",
+  "10973": "DA-20378",
+  "10980": "",
+  "10987": "DA-20183",
+  "10994": "DA-20504",
+  "11001": "DA-20375",
+  "11008": "DA-20150",
+  "11015": "DA-20423",
+  "11022": "DA-20546",
+  "11029": "DA-20642",
+  "11036": "DA-20420",
+  "11043": "DA-20852",
+  "11050": "DA-20111",
+  "11057": "DA-20321",
+  "11064": "DA-20693",
+  "11071": "DA-20876",
+  "11078": "DA-20036",
+  "11085": "DA-20591",
+  "11092": "DA-20480",
+  "11099": "DA-20807",
+  "11106": "DA-20534",
+  "11113": "DA-20360",
+  "11120": "DA-20453",
+  "11127": "DA-20774",
+  "11134": "DA-20240",
+  "11141": "DA-20729",
+  "11148": "",
+  "11155": "DA-20822",
+  "11162": "DA-20588",
+  "11169": "",
+  "11176": "DA-20789",
+  "11183": "DA-20777",
+  "11190": "DA-20012",
+  "11197": "DA-20354",
+  "11204": "DA-20021",
+  "11211": "DA-20648",
+  "11218": "DA-20246",
+  "11225": "DA-20417",
+  "11232": "DA-20435",
+  "11239": "DA-20408",
+  "11246": "",
+  "11253": "DA-20252",
+  "11260": "DA-20333",
+  "11267": "",
+  "11274": "DA-20723",
+  "11281": "DA-20705",
+  "11288": "DA-20798",
+  "11295": "DA-20093",
+  "11302": "DA-20819",
+  "11309": "DA-20243",
+  "11316": "DA-20072",
+  "11323": "DA-20042",
+  "11330": "DA-20495",
+  "11337": "DA-20810",
+  "11344": "DA-20681",
+  "11351": "DA-20696",
+  "11358": "DA-20462",
+  "11365": "DA-20615",
+  "11372": "",
+  "11379": "DA-20537",
+  "11386": "DA-20225",
+  "11393": "",
+  "11400": "DA-20858",
+  "11407": "DA-20582",
+  "11414": "DA-20096",
+  "11421": "DA-20168",
+  "11428": "DA-20015",
+  "11435": "DA-20792",
+  "11442": "DA-20351",
+  "11449": "DA-20291",
+  "11456": "DA-20048",
+  "11463": "DA-20393",
+  "11470": "DA-20855",
+  "11477": "DA-20885",
+  "11484": "DA-20882",
+  "11491": "DA-20339",
+  "11498": "DA-20141",
+  "11505": "DA-20306",
+  "11512": "DA-20708",
+  "11519": "DA-20501",
+  "11526": "DA-20300",
+  "11533": "",
+  "11540": "",
+  "11547": "",
+  "11554": "",
+  "11561": "DA-20324",
+  "11568": "DA-20237",
+  "11575": "DA-20372",
+  "11582": "DA-20228",
+  "11589": "",
+  "11596": "",
+  "11603": "DA-20624",
+  "11610": "DA-20639",
+  "11617": "DA-20222",
+  "11624": "DA-20870",
+  "11631": "DA-20294",
+  "11638": "DA-20174",
+  "11645": "DA-20795",
+  "11652": "DA-20825",
+  "11659": "DA-20603",
+  "11666": "DA-20714",
+  "11673": "DA-20606",
+  "11680": "DA-20486",
+  "11687": "DA-20219",
+  "11694": "DA-20129",
+  "11701": "DA-20645",
+  "11708": "DA-20747",
+  "11715": "DA-20780",
+  "11722": "DA-20849",
+  "11729": "DA-20600",
+  "11736": "",
+  "11743": "",
+  "11750": "DA-20627",
+  "11757": "",
+  "11764": "DA-20192",
+  "11771": "DA-20498",
+  "11778": "DA-20138",
+  "11785": "DA-20309",
+  "11792": "DA-20477",
+  "11799": "",
+  "11806": "DA-20510",
+  "11813": "",
+  "11820": "DA-20753",
+  "11827": "",
+  "11834": "DA-20414",
+  "11841": "DA-20126",
+  "11848": "DA-20369",
+  "11855": "DA-20834",
+  "11862": "DA-20135",
+  "11869": "DA-20576",
+  "11876": "",
+  "11883": "",
+  "11890": "DA-20213",
+  "11897": "DA-20636",
+  "11904": "DA-20285",
+  "11911": "",
+  "11918": "",
+  "11925": "DA-20438",
+  "11932": "DA-20348",
+  "11939": "DA-20258",
+  "11946": "DA-20861",
+  "11953": "DA-20516",
+  "11960": "",
+  "11967": "DA-20843",
+  "11974": "DA-20198",
+  "11981": "DA-20426",
+  "11988": "DA-20771",
+  "11995": "DA-20801",
+  "12002": "DA-20024",
+  "12009": "DA-20156",
+  "12016": "DA-20702",
+  "12023": "DA-20432",
+  "12030": "DA-20465",
+  "12037": "DA-20075",
+  "12044": "",
+  "12051": "DA-20342",
+  "12058": "DA-20555",
+  "12065": "DA-20405",
+  "12072": "DA-20831",
+  "12079": "DA-20543",
+  "12086": "DA-20357",
+  "12093": "DA-20066",
+  "12100": "DA-20018"
+ }
+}
